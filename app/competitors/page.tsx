@@ -1,6 +1,7 @@
 import { Swords, TrendingUp, TrendingDown } from 'lucide-react';
 import Badge from '@/components/ui/Badge';
 import SentimentBar from '@/components/ui/SentimentBar';
+import GitHubStats from '@/components/ui/GitHubStats';
 import { competitors } from '@/data/competitors';
 import { signals } from '@/data/signals';
 
@@ -101,7 +102,7 @@ export default function CompetitorsPage() {
                 </div>
               </div>
 
-              <div style={{ display: 'grid', gridTemplateColumns: '1.2fr 1fr 1fr', gap: 20 }}>
+              <div style={{ display: 'grid', gridTemplateColumns: '1.1fr 0.9fr 0.9fr 0.85fr', gap: 20 }}>
                 {/* Sentiment */}
                 <div>
                   <div style={{ fontSize: 11, fontWeight: 700, color: '#64748b', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: 10 }}>
@@ -169,6 +170,14 @@ export default function CompetitorsPage() {
                       </Badge>
                     </div>
                   </div>
+                </div>
+
+                {/* Live GitHub data */}
+                <div>
+                  <div style={{ fontSize: 11, fontWeight: 700, color: '#64748b', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: 10 }}>
+                    GitHub Activity
+                  </div>
+                  <GitHubStats competitorId={c.id} />
                 </div>
               </div>
             </div>

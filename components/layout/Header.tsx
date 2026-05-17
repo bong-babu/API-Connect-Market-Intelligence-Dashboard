@@ -1,4 +1,5 @@
 import { Bell, Settings, Search } from 'lucide-react';
+import HeaderRefreshPill from './HeaderRefreshPill';
 
 export default function Header() {
   return (
@@ -47,6 +48,9 @@ export default function Header() {
           </div>
         </div>
       </div>
+
+      {/* Refresh timestamp */}
+      <HeaderRefreshPill />
 
       {/* Right actions */}
       <div style={{ display: 'flex', alignItems: 'center', gap: 4 }}>

@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
+import { useState, useEffect } from 'react';
 import {
   LayoutDashboard,
   Radio,
@@ -10,6 +11,7 @@ import {
   Star,
   Lightbulb,
   BookOpen,
+  RefreshCw,
 } from 'lucide-react';
 
 const NAV_ITEMS = [
@@ -22,8 +24,27 @@ const NAV_ITEMS = [
   { href: '/kpi-dictionary', label: 'KPI Dictionary', icon: BookOpen },
 ];
 
+function formatAge(minutes: number): string {
+  if (minutes < 60) return `${minutes}m ago`;
+  const h = Math.round(minutes / 60);
+  if (h < 24) return `${h}h ago`;
+  return `${Math.round(h / 24)}d ago`;
+}
+
 export default function Sidebar() {
   const pathname = usePathname();
+  const [ageMinutes, setAgeMinutes] = useState<number | null>(null);
+  const [fresh, setFresh] = useState(true);
+
+  useEffect(() => {
+    fetch('/api/last-updated')
+      .then(r => r.json())
+      .then(json => {
+        setAgeMinutes(json.ageMinutes ?? null);
+        setFresh(json.fresh ?? true);
+      })
+      .catch(() => {});
+  }, []);
 
   return (
     <aside
@@ -132,6 +153,39 @@ export default function Sidebar() {
       >
         <div style={{ fontWeight: 600, color: '#64748b', marginBottom: 2 }}>IBM API Connect</div>
         <div>Market Intelligence</div>
+
+        {/* Last-refresh indicator */}
+        {ageMinutes !== null && (
+          <div
+            style={{
+              marginTop: 8,
+              display: 'flex',
+              alignItems: 'center',
+              gap: 5,
+              padding: '4px 8px',
+              borderRadius: 6,
+              background: fresh ? '#f0fdf4' : ageMinutes < 2880 ? '#fffbeb' : '#fef2f2',
+              border: `1px solid ${fresh ? '#bbf7d0' : ageMinutes < 2880 ? '#fde68a' : '#fecaca'}`,
+            }}
+          >
+            <RefreshCw
+              size={9}
+              strokeWidth={2.5}
+              color={fresh ? '#10b981' : ageMinutes < 2880 ? '#d97706' : '#dc2626'}
+            />
+            <span
+              style={{
+                fontSize: 9.5,
+                fontWeight: 600,
+                color: fresh ? '#10b981' : ageMinutes < 2880 ? '#d97706' : '#dc2626',
+              }}
+            >
+              {formatAge(ageMinutes)}
+            </span>
+            <span style={{ fontSize: 9, color: '#94a3b8', marginLeft: 1 }}>data</span>
+          </div>
+        )}
+
         <div style={{ marginTop: 6, color: '#cbd5e1', fontSize: 9 }}>v1.0 · 2026</div>
       </div>
     </aside>

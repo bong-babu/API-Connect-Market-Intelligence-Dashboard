@@ -4,6 +4,7 @@ import Badge from '@/components/ui/Badge';
 import ActionItem from '@/components/ui/ActionItem';
 import SentimentBars from '@/components/charts/SentimentBars';
 import DonutChart from '@/components/charts/DonutChart';
+import LastUpdatedBadge from '@/components/ui/LastUpdatedBadge';
 import { competitors } from '@/data/competitors';
 import { kpis } from '@/data/kpis';
 import { recommendations } from '@/data/recommendations';
@@ -98,11 +99,14 @@ export default function OverviewPage() {
         }}
       >
         <div style={{ flex: 1 }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 8 }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 8, flexWrap: 'wrap' }}>
             <span style={{ fontSize: 11, fontWeight: 700, color: '#0f62fe', textTransform: 'uppercase', letterSpacing: '0.08em' }}>
               Weekly Intelligence Brief
             </span>
             <span style={{ fontSize: 10.5, color: '#94a3b8' }}>Week of 12 May 2026</span>
+            <div style={{ marginLeft: 'auto' }}>
+              <LastUpdatedBadge />
+            </div>
           </div>
           <p style={{ fontSize: 13, color: '#0f172a', lineHeight: 1.7, margin: 0 }}>
             <strong>Kong&apos;s AI Gateway</strong> hit 1M downloads and entered the Gartner Leaders quadrant — the

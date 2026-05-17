@@ -1,0 +1,80 @@
+[
+  {
+    "competitorId": "ibm",
+    "productName": "IBM API Connect",
+    "slug": "ibm-api-connect",
+    "source": "g2",
+    "rating": null,
+    "reviewCount": null,
+    "maxRating": 5,
+    "fetchStatus": "blocked",
+    "fetchedAt": "2026-05-17T16:57:43.620Z",
+    "url": "https://www.g2.com/products/ibm-api-connect/reviews",
+    "note": "G2 uses JavaScript rendering for full review content. Only JSON-LD structured data (if present) was parsed."
+  },
+  {
+    "competitorId": "kong",
+    "productName": "Kong Gateway",
+    "slug": "kong-gateway",
+    "source": "g2",
+    "rating": null,
+    "reviewCount": null,
+    "maxRating": 5,
+    "fetchStatus": "blocked",
+    "fetchedAt": "2026-05-17T16:57:45.193Z",
+    "url": "https://www.g2.com/products/kong-gateway/reviews",
+    "note": "G2 uses JavaScript rendering for full review content. Only JSON-LD structured data (if present) was parsed."
+  },
+  {
+    "competitorId": "apigee",
+    "productName": "Google Apigee",
+    "slug": "apigee",
+    "source": "g2",
+    "rating": null,
+    "reviewCount": null,
+    "maxRating": 5,
+    "fetchStatus": "blocked",
+    "fetchedAt": "2026-05-17T16:57:46.764Z",
+    "url": "https://www.g2.com/products/apigee/reviews",
+    "note": "G2 uses JavaScript rendering for full review content. Only JSON-LD structured data (if present) was parsed."
+  },
+  {
+    "competitorId": "mulesoft",
+    "productName": "MuleSoft Anypoint",
+    "slug": "mulesoft-anypoint-platform",
+    "source": "g2",
+    "rating": null,
+    "reviewCount": null,
+    "maxRating": 5,
+    "fetchStatus": "blocked",
+    "fetchedAt": "2026-05-17T16:57:48.361Z",
+    "url": "https://www.g2.com/products/mulesoft-anypoint-platform/reviews",
+    "note": "G2 uses JavaScript rendering for full review content. Only JSON-LD structured data (if present) was parsed."
+  },
+  {
+    "competitorId": "solo",
+    "productName": "Solo.io",
+    "slug": "solo-io",
+    "source": "g2",
+    "rating": null,
+    "reviewCount": null,
+    "maxRating": 5,
+    "fetchStatus": "blocked",
+    "fetchedAt": "2026-05-17T16:57:49.933Z",
+    "url": "https://www.g2.com/products/solo-io/reviews",
+    "note": "G2 uses JavaScript rendering for full review content. Only JSON-LD structured data (if present) was parsed."
+  },
+  {
+    "competitorId": "boomi",
+    "productName": "Boomi",
+    "slug": "boomi",
+    "source": "g2",
+    "rating": null,
+    "reviewCount": null,
+    "maxRating": 5,
+    "fetchStatus": "blocked",
+    "fetchedAt": "2026-05-17T16:57:51.501Z",
+    "url": "https://www.g2.com/products/boomi/reviews",
+    "note": "G2 uses JavaScript rendering for full review content. Only JSON-LD structured data (if present) was parsed."
+  }
+]

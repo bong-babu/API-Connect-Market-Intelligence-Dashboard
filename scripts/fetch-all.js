@@ -50,8 +50,8 @@ async function main() {
   console.log(`  Metadata → ${METADATA_FILE}`);
   console.log('═══════════════════════════════════════════\n');
 
-  const anyError = [rssResult, githubResult, reviewResult].some(r => r.status === 'error');
-  process.exit(anyError ? 1 : 0);
+  const allFailed = [rssResult, githubResult, reviewResult].every(r => r.status === 'error');
+  process.exit(allFailed ? 1 : 0);
 }
 
 main();

@@ -37,7 +37,7 @@
     "latestReleaseDate": "2025-06-04T09:20:05Z",
     "latestReleaseName": "3.9.1",
     "pushedAt": "2026-03-27T17:42:51Z",
-    "fetchedAt": "2026-05-17T16:57:41.002Z"
+    "fetchedAt": "2026-05-17T17:21:01.904Z"
   },
   {
     "competitorId": "apigee",
@@ -59,7 +59,7 @@
     "latestReleaseDate": "2026-05-14T14:12:55Z",
     "latestReleaseName": "container: v6.8.0",
     "pushedAt": "2026-05-15T22:32:38Z",
-    "fetchedAt": "2026-05-17T16:57:41.666Z"
+    "fetchedAt": "2026-05-17T17:21:02.562Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-05-07T18:48:09Z",
-    "fetchedAt": "2026-05-17T16:57:42.323Z"
+    "fetchedAt": "2026-05-17T17:21:03.148Z"
   },
   {
     "competitorId": "solo",
@@ -99,6 +99,6 @@
     "latestReleaseDate": "2026-05-06T17:26:23Z",
     "latestReleaseName": "v1.22.0-beta4",
     "pushedAt": "2026-05-15T20:58:15Z",
-    "fetchedAt": "2026-05-17T16:57:43.034Z"
+    "fetchedAt": "2026-05-17T17:21:03.752Z"
   }
 ]

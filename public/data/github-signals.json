@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43427,
-    "forks": 5144,
+    "stars": 43432,
+    "forks": 5142,
     "openIssues": 142,
-    "watchers": 43427,
+    "watchers": 43432,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2025-06-04T09:20:05Z",
     "latestReleaseName": "3.9.1",
     "pushedAt": "2026-05-21T08:27:07Z",
-    "fetchedAt": "2026-05-23T01:46:56.621Z"
+    "fetchedAt": "2026-05-24T01:52:46.434Z"
   },
   {
     "competitorId": "apigee",
@@ -47,7 +47,7 @@
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3161,
     "forks": 679,
-    "openIssues": 750,
+    "openIssues": 751,
     "watchers": 3161,
     "language": "JavaScript",
     "topics": [
@@ -58,8 +58,8 @@
     "latestReleaseTag": "container-v6.8.0",
     "latestReleaseDate": "2026-05-14T14:12:55Z",
     "latestReleaseName": "container: v6.8.0",
-    "pushedAt": "2026-05-23T01:42:56Z",
-    "fetchedAt": "2026-05-23T01:46:57.167Z"
+    "pushedAt": "2026-05-23T08:25:41Z",
+    "fetchedAt": "2026-05-24T01:52:46.915Z"
   },
   {
     "competitorId": "mulesoft",
@@ -67,10 +67,10 @@
     "repo": "mule",
     "fullName": "mulesoft/mule",
     "description": "Mule Community Edition",
-    "stars": 496,
-    "forks": 691,
+    "stars": 497,
+    "forks": 692,
     "openIssues": 14,
-    "watchers": 496,
+    "watchers": 497,
     "language": "Java",
     "topics": [],
     "htmlUrl": "https://github.com/mulesoft/mule",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-05-07T18:48:09Z",
-    "fetchedAt": "2026-05-23T01:46:57.674Z"
+    "fetchedAt": "2026-05-24T01:52:47.410Z"
   },
   {
     "competitorId": "solo",
@@ -88,7 +88,7 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 161,
     "forks": 13,
-    "openIssues": 1893,
+    "openIssues": 1891,
     "watchers": 161,
     "language": "Go",
     "topics": [
@@ -99,6 +99,6 @@
     "latestReleaseDate": "2026-05-22T20:51:20Z",
     "latestReleaseName": "v1.21.6",
     "pushedAt": "2026-05-22T22:25:47Z",
-    "fetchedAt": "2026-05-23T01:46:58.316Z"
+    "fetchedAt": "2026-05-24T01:52:47.996Z"
   }
 ]

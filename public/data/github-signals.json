@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43434,
+    "stars": 43441,
     "forks": 5142,
-    "openIssues": 142,
-    "watchers": 43434,
+    "openIssues": 144,
+    "watchers": 43441,
     "language": "Lua",
     "topics": [
       "ai",
@@ -36,8 +36,8 @@
     "latestReleaseTag": "3.9.1",
     "latestReleaseDate": "2025-06-04T09:20:05Z",
     "latestReleaseName": "3.9.1",
-    "pushedAt": "2026-05-21T08:27:07Z",
-    "fetchedAt": "2026-05-25T01:59:15.185Z"
+    "pushedAt": "2026-05-25T10:17:37Z",
+    "fetchedAt": "2026-05-26T01:51:12.508Z"
   },
   {
     "competitorId": "apigee",
@@ -45,10 +45,10 @@
     "repo": "google-cloud-node",
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
-    "stars": 3161,
-    "forks": 679,
-    "openIssues": 751,
-    "watchers": 3161,
+    "stars": 3162,
+    "forks": 678,
+    "openIssues": 753,
+    "watchers": 3162,
     "language": "JavaScript",
     "topics": [
       "google-cloud",
@@ -58,8 +58,8 @@
     "latestReleaseTag": "container-v6.8.0",
     "latestReleaseDate": "2026-05-14T14:12:55Z",
     "latestReleaseName": "container: v6.8.0",
-    "pushedAt": "2026-05-23T08:25:41Z",
-    "fetchedAt": "2026-05-25T01:59:15.661Z"
+    "pushedAt": "2026-05-25T19:12:27Z",
+    "fetchedAt": "2026-05-26T01:51:13.004Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-05-07T18:48:09Z",
-    "fetchedAt": "2026-05-25T01:59:16.473Z"
+    "fetchedAt": "2026-05-26T01:51:13.482Z"
   },
   {
     "competitorId": "solo",
@@ -88,7 +88,7 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 161,
     "forks": 13,
-    "openIssues": 1890,
+    "openIssues": 1889,
     "watchers": 161,
     "language": "Go",
     "topics": [
@@ -99,6 +99,6 @@
     "latestReleaseDate": "2026-05-22T20:51:20Z",
     "latestReleaseName": "v1.21.6",
     "pushedAt": "2026-05-22T22:25:47Z",
-    "fetchedAt": "2026-05-25T01:59:17.001Z"
+    "fetchedAt": "2026-05-26T01:51:14.044Z"
   }
 ]

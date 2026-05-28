@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43447,
-    "forks": 5144,
+    "stars": 43457,
+    "forks": 5143,
     "openIssues": 142,
-    "watchers": 43447,
+    "watchers": 43457,
     "language": "Lua",
     "topics": [
       "ai",
@@ -36,8 +36,8 @@
     "latestReleaseTag": "3.9.1",
     "latestReleaseDate": "2025-06-04T09:20:05Z",
     "latestReleaseName": "3.9.1",
-    "pushedAt": "2026-05-26T14:47:32Z",
-    "fetchedAt": "2026-05-27T01:59:21.230Z"
+    "pushedAt": "2026-05-27T09:04:07Z",
+    "fetchedAt": "2026-05-28T01:30:58.819Z"
   },
   {
     "competitorId": "apigee",
@@ -47,7 +47,7 @@
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3163,
     "forks": 679,
-    "openIssues": 759,
+    "openIssues": 761,
     "watchers": 3163,
     "language": "JavaScript",
     "topics": [
@@ -55,11 +55,11 @@
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "container-v6.8.0",
-    "latestReleaseDate": "2026-05-14T14:12:55Z",
-    "latestReleaseName": "container: v6.8.0",
-    "pushedAt": "2026-05-26T23:04:49Z",
-    "fetchedAt": "2026-05-27T01:59:21.739Z"
+    "latestReleaseTag": "databasecenter-v0.2.0",
+    "latestReleaseDate": "2026-05-27T17:21:53Z",
+    "latestReleaseName": "databasecenter: v0.2.0",
+    "pushedAt": "2026-05-28T00:42:10Z",
+    "fetchedAt": "2026-05-28T01:30:59.379Z"
   },
   {
     "competitorId": "mulesoft",
@@ -68,8 +68,8 @@
     "fullName": "mulesoft/mule",
     "description": "Mule Community Edition",
     "stars": 497,
-    "forks": 692,
-    "openIssues": 14,
+    "forks": 693,
+    "openIssues": 15,
     "watchers": 497,
     "language": "Java",
     "topics": [],
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-05-07T18:48:09Z",
-    "fetchedAt": "2026-05-27T01:59:22.253Z"
+    "fetchedAt": "2026-05-28T01:31:00.017Z"
   },
   {
     "competitorId": "solo",
@@ -99,6 +99,6 @@
     "latestReleaseDate": "2026-05-22T20:51:20Z",
     "latestReleaseName": "v1.21.6",
     "pushedAt": "2026-05-22T22:25:47Z",
-    "fetchedAt": "2026-05-27T01:59:22.842Z"
+    "fetchedAt": "2026-05-28T01:31:00.645Z"
   }
 ]

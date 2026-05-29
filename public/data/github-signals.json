@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43457,
-    "forks": 5143,
-    "openIssues": 142,
-    "watchers": 43457,
+    "stars": 43467,
+    "forks": 5142,
+    "openIssues": 140,
+    "watchers": 43467,
     "language": "Lua",
     "topics": [
       "ai",
@@ -36,8 +36,8 @@
     "latestReleaseTag": "3.9.1",
     "latestReleaseDate": "2025-06-04T09:20:05Z",
     "latestReleaseName": "3.9.1",
-    "pushedAt": "2026-05-27T09:04:07Z",
-    "fetchedAt": "2026-05-28T01:30:58.819Z"
+    "pushedAt": "2026-05-28T07:36:42Z",
+    "fetchedAt": "2026-05-29T01:52:52.124Z"
   },
   {
     "competitorId": "apigee",
@@ -45,10 +45,10 @@
     "repo": "google-cloud-node",
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
-    "stars": 3163,
+    "stars": 3164,
     "forks": 679,
-    "openIssues": 761,
-    "watchers": 3163,
+    "openIssues": 749,
+    "watchers": 3164,
     "language": "JavaScript",
     "topics": [
       "google-cloud",
@@ -58,8 +58,8 @@
     "latestReleaseTag": "databasecenter-v0.2.0",
     "latestReleaseDate": "2026-05-27T17:21:53Z",
     "latestReleaseName": "databasecenter: v0.2.0",
-    "pushedAt": "2026-05-28T00:42:10Z",
-    "fetchedAt": "2026-05-28T01:30:59.379Z"
+    "pushedAt": "2026-05-29T00:34:07Z",
+    "fetchedAt": "2026-05-29T01:52:52.623Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-05-07T18:48:09Z",
-    "fetchedAt": "2026-05-28T01:31:00.017Z"
+    "fetchedAt": "2026-05-29T01:52:53.119Z"
   },
   {
     "competitorId": "solo",
@@ -88,7 +88,7 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 161,
     "forks": 13,
-    "openIssues": 1888,
+    "openIssues": 1887,
     "watchers": 161,
     "language": "Go",
     "topics": [
@@ -99,6 +99,6 @@
     "latestReleaseDate": "2026-05-22T20:51:20Z",
     "latestReleaseName": "v1.21.6",
     "pushedAt": "2026-05-22T22:25:47Z",
-    "fetchedAt": "2026-05-28T01:31:00.645Z"
+    "fetchedAt": "2026-05-29T01:52:53.643Z"
   }
 ]

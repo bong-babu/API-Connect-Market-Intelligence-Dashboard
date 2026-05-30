@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43467,
-    "forks": 5142,
+    "stars": 43480,
+    "forks": 5144,
     "openIssues": 140,
-    "watchers": 43467,
+    "watchers": 43480,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2025-06-04T09:20:05Z",
     "latestReleaseName": "3.9.1",
     "pushedAt": "2026-05-28T07:36:42Z",
-    "fetchedAt": "2026-05-29T01:52:52.124Z"
+    "fetchedAt": "2026-05-30T01:48:36.178Z"
   },
   {
     "competitorId": "apigee",
@@ -45,10 +45,10 @@
     "repo": "google-cloud-node",
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
-    "stars": 3164,
-    "forks": 679,
-    "openIssues": 749,
-    "watchers": 3164,
+    "stars": 3165,
+    "forks": 678,
+    "openIssues": 772,
+    "watchers": 3165,
     "language": "JavaScript",
     "topics": [
       "google-cloud",
@@ -58,8 +58,8 @@
     "latestReleaseTag": "databasecenter-v0.2.0",
     "latestReleaseDate": "2026-05-27T17:21:53Z",
     "latestReleaseName": "databasecenter: v0.2.0",
-    "pushedAt": "2026-05-29T00:34:07Z",
-    "fetchedAt": "2026-05-29T01:52:52.623Z"
+    "pushedAt": "2026-05-30T00:27:19Z",
+    "fetchedAt": "2026-05-30T01:48:36.699Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-05-07T18:48:09Z",
-    "fetchedAt": "2026-05-29T01:52:53.119Z"
+    "fetchedAt": "2026-05-30T01:48:37.204Z"
   },
   {
     "competitorId": "solo",
@@ -95,10 +95,10 @@
       "sec"
     ],
     "htmlUrl": "https://github.com/solo-io/gloo",
-    "latestReleaseTag": "v1.21.6",
-    "latestReleaseDate": "2026-05-22T20:51:20Z",
-    "latestReleaseName": "v1.21.6",
-    "pushedAt": "2026-05-22T22:25:47Z",
-    "fetchedAt": "2026-05-29T01:52:53.643Z"
+    "latestReleaseTag": "v1.22.0-beta6",
+    "latestReleaseDate": "2026-05-29T20:32:42Z",
+    "latestReleaseName": "v1.22.0-beta6",
+    "pushedAt": "2026-05-29T20:33:08Z",
+    "fetchedAt": "2026-05-30T01:48:37.759Z"
   }
 ]

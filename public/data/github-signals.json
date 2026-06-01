@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43490,
+    "stars": 43498,
     "forks": 5144,
-    "openIssues": 140,
-    "watchers": 43490,
+    "openIssues": 141,
+    "watchers": 43498,
     "language": "Lua",
     "topics": [
       "ai",
@@ -36,8 +36,8 @@
     "latestReleaseTag": "3.9.1",
     "latestReleaseDate": "2025-06-04T09:20:05Z",
     "latestReleaseName": "3.9.1",
-    "pushedAt": "2026-05-28T07:36:42Z",
-    "fetchedAt": "2026-05-31T02:00:27.843Z"
+    "pushedAt": "2026-05-31T16:50:32Z",
+    "fetchedAt": "2026-06-01T02:08:44.540Z"
   },
   {
     "competitorId": "apigee",
@@ -47,7 +47,7 @@
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3167,
     "forks": 679,
-    "openIssues": 772,
+    "openIssues": 752,
     "watchers": 3167,
     "language": "JavaScript",
     "topics": [
@@ -59,7 +59,7 @@
     "latestReleaseDate": "2026-05-27T17:21:53Z",
     "latestReleaseName": "databasecenter: v0.2.0",
     "pushedAt": "2026-05-30T04:18:27Z",
-    "fetchedAt": "2026-05-31T02:00:28.418Z"
+    "fetchedAt": "2026-06-01T02:08:45.036Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-05-07T18:48:09Z",
-    "fetchedAt": "2026-05-31T02:00:29.027Z"
+    "fetchedAt": "2026-06-01T02:08:45.563Z"
   },
   {
     "competitorId": "solo",
@@ -99,6 +99,6 @@
     "latestReleaseDate": "2026-05-29T20:32:42Z",
     "latestReleaseName": "v1.22.0-beta6",
     "pushedAt": "2026-05-29T20:33:08Z",
-    "fetchedAt": "2026-05-31T02:00:29.645Z"
+    "fetchedAt": "2026-06-01T02:08:46.104Z"
   }
 ]

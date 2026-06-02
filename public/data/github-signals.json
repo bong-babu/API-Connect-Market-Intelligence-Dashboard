@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43498,
-    "forks": 5144,
+    "stars": 43504,
+    "forks": 5143,
     "openIssues": 141,
-    "watchers": 43498,
+    "watchers": 43504,
     "language": "Lua",
     "topics": [
       "ai",
@@ -36,8 +36,8 @@
     "latestReleaseTag": "3.9.1",
     "latestReleaseDate": "2025-06-04T09:20:05Z",
     "latestReleaseName": "3.9.1",
-    "pushedAt": "2026-05-31T16:50:32Z",
-    "fetchedAt": "2026-06-01T02:08:44.540Z"
+    "pushedAt": "2026-06-02T01:21:36Z",
+    "fetchedAt": "2026-06-02T02:09:47.380Z"
   },
   {
     "competitorId": "apigee",
@@ -46,8 +46,8 @@
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3167,
-    "forks": 679,
-    "openIssues": 752,
+    "forks": 680,
+    "openIssues": 751,
     "watchers": 3167,
     "language": "JavaScript",
     "topics": [
@@ -55,11 +55,11 @@
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "databasecenter-v0.2.0",
-    "latestReleaseDate": "2026-05-27T17:21:53Z",
-    "latestReleaseName": "databasecenter: v0.2.0",
-    "pushedAt": "2026-05-30T04:18:27Z",
-    "fetchedAt": "2026-06-01T02:08:45.036Z"
+    "latestReleaseTag": "databasecenter-v0.3.0",
+    "latestReleaseDate": "2026-06-01T20:49:09Z",
+    "latestReleaseName": "databasecenter: v0.3.0",
+    "pushedAt": "2026-06-02T00:20:00Z",
+    "fetchedAt": "2026-06-02T02:09:47.925Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-05-07T18:48:09Z",
-    "fetchedAt": "2026-06-01T02:08:45.563Z"
+    "fetchedAt": "2026-06-02T02:09:48.466Z"
   },
   {
     "competitorId": "solo",
@@ -88,7 +88,7 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 161,
     "forks": 13,
-    "openIssues": 1887,
+    "openIssues": 1889,
     "watchers": 161,
     "language": "Go",
     "topics": [
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.22.0-beta6",
     "latestReleaseDate": "2026-05-29T20:32:42Z",
     "latestReleaseName": "v1.22.0-beta6",
-    "pushedAt": "2026-05-29T20:33:08Z",
-    "fetchedAt": "2026-06-01T02:08:46.104Z"
+    "pushedAt": "2026-06-01T22:24:43Z",
+    "fetchedAt": "2026-06-02T02:09:49.115Z"
   }
 ]

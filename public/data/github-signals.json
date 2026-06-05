@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43514,
-    "forks": 5142,
-    "openIssues": 145,
-    "watchers": 43514,
+    "stars": 43520,
+    "forks": 5143,
+    "openIssues": 139,
+    "watchers": 43520,
     "language": "Lua",
     "topics": [
       "ai",
@@ -33,11 +33,11 @@
       "serverless"
     ],
     "htmlUrl": "https://github.com/Kong/kong",
-    "latestReleaseTag": "3.9.1",
-    "latestReleaseDate": "2025-06-04T09:20:05Z",
-    "latestReleaseName": "3.9.1",
-    "pushedAt": "2026-06-03T08:33:23Z",
-    "fetchedAt": "2026-06-04T02:15:18.570Z"
+    "latestReleaseTag": "3.9.2",
+    "latestReleaseDate": "2026-06-04T07:12:53Z",
+    "latestReleaseName": "3.9.2",
+    "pushedAt": "2026-06-04T08:54:06Z",
+    "fetchedAt": "2026-06-05T01:59:31.777Z"
   },
   {
     "competitorId": "apigee",
@@ -45,10 +45,10 @@
     "repo": "google-cloud-node",
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
-    "stars": 3168,
+    "stars": 3171,
     "forks": 680,
-    "openIssues": 766,
-    "watchers": 3168,
+    "openIssues": 764,
+    "watchers": 3171,
     "language": "JavaScript",
     "topics": [
       "google-cloud",
@@ -58,8 +58,8 @@
     "latestReleaseTag": "databasecenter-v0.3.0",
     "latestReleaseDate": "2026-06-01T20:49:09Z",
     "latestReleaseName": "databasecenter: v0.3.0",
-    "pushedAt": "2026-06-04T02:03:08Z",
-    "fetchedAt": "2026-06-04T02:15:19.084Z"
+    "pushedAt": "2026-06-04T23:14:44Z",
+    "fetchedAt": "2026-06-05T01:59:32.272Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-05-07T18:48:09Z",
-    "fetchedAt": "2026-06-04T02:15:19.648Z"
+    "fetchedAt": "2026-06-05T01:59:32.785Z"
   },
   {
     "competitorId": "solo",
@@ -87,18 +87,18 @@
     "fullName": "solo-io/gloo",
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 161,
-    "forks": 13,
-    "openIssues": 1889,
+    "forks": 14,
+    "openIssues": 1890,
     "watchers": 161,
     "language": "Go",
     "topics": [
       "sec"
     ],
     "htmlUrl": "https://github.com/solo-io/gloo",
-    "latestReleaseTag": "v1.22.0-beta6",
-    "latestReleaseDate": "2026-05-29T20:32:42Z",
-    "latestReleaseName": "v1.22.0-beta6",
-    "pushedAt": "2026-06-03T18:23:00Z",
-    "fetchedAt": "2026-06-04T02:15:20.175Z"
+    "latestReleaseTag": "v1.22.0-beta7",
+    "latestReleaseDate": "2026-06-04T17:23:06Z",
+    "latestReleaseName": "v1.22.0-beta7",
+    "pushedAt": "2026-06-04T17:24:01Z",
+    "fetchedAt": "2026-06-05T01:59:33.344Z"
   }
 ]

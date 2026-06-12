@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43560,
-    "forks": 5148,
+    "stars": 43565,
+    "forks": 5151,
     "openIssues": 151,
-    "watchers": 43560,
+    "watchers": 43565,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-04T07:12:53Z",
     "latestReleaseName": "3.9.2",
     "pushedAt": "2026-06-10T06:34:47Z",
-    "fetchedAt": "2026-06-11T02:09:57.980Z"
+    "fetchedAt": "2026-06-12T02:05:51.908Z"
   },
   {
     "competitorId": "apigee",
@@ -45,10 +45,10 @@
     "repo": "google-cloud-node",
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
-    "stars": 3174,
+    "stars": 3173,
     "forks": 682,
-    "openIssues": 779,
-    "watchers": 3174,
+    "openIssues": 789,
+    "watchers": 3173,
     "language": "JavaScript",
     "topics": [
       "google-cloud",
@@ -58,8 +58,8 @@
     "latestReleaseTag": "storage-v7.21.0",
     "latestReleaseDate": "2026-06-08T20:37:01Z",
     "latestReleaseName": "storage: v7.21.0",
-    "pushedAt": "2026-06-11T01:59:42Z",
-    "fetchedAt": "2026-06-11T02:09:58.501Z"
+    "pushedAt": "2026-06-12T01:29:45Z",
+    "fetchedAt": "2026-06-12T02:05:52.402Z"
   },
   {
     "competitorId": "mulesoft",
@@ -67,10 +67,10 @@
     "repo": "mule",
     "fullName": "mulesoft/mule",
     "description": "Mule Community Edition",
-    "stars": 497,
+    "stars": 498,
     "forks": 692,
     "openIssues": 15,
-    "watchers": 497,
+    "watchers": 498,
     "language": "Java",
     "topics": [],
     "htmlUrl": "https://github.com/mulesoft/mule",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-06-11T02:09:59.012Z"
+    "fetchedAt": "2026-06-12T02:05:52.941Z"
   },
   {
     "competitorId": "solo",
@@ -88,7 +88,7 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 161,
     "forks": 13,
-    "openIssues": 1891,
+    "openIssues": 1892,
     "watchers": 161,
     "language": "Go",
     "topics": [
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.21.8",
     "latestReleaseDate": "2026-06-05T20:52:53Z",
     "latestReleaseName": "v1.21.8",
-    "pushedAt": "2026-06-08T11:45:31Z",
-    "fetchedAt": "2026-06-11T02:09:59.572Z"
+    "pushedAt": "2026-06-11T17:06:52Z",
+    "fetchedAt": "2026-06-12T02:05:53.516Z"
   }
 ]

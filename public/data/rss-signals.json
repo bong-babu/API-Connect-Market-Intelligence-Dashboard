@@ -1,6 +1,42 @@
 [
   {
-    "id": "rss-boomi-1781576189766-0",
+    "id": "rss-mulesoft-1781662334583-0",
+    "competitorId": "mulesoft",
+    "competitorName": "MuleSoft Anypoint",
+    "source": "rss",
+    "title": "From Agentic Chaos to AI Clarity: Unlocking the Value You Already Own",
+    "link": "https://medium.com/another-integration-blog/from-agentic-chaos-to-ai-clarity-unlocking-the-value-you-already-own-9d54e2c2de30?source=rss------mulesoft-5",
+    "publishedAt": "Tue, 16 Jun 2026 19:06:49 GMT",
+    "summary": "How MuleSoft Agent Fabric helps organizations discover, connect, govern, and activate existing APIs, integrations, and tools to accelerate… Continue reading on Another Integration Blog »",
+    "feedTitle": "Mulesoft on Medium",
+    "feedUrl": "https://medium.com/feed/tag/mulesoft"
+  },
+  {
+    "id": "rss-mulesoft-1781662334583-1",
+    "competitorId": "mulesoft",
+    "competitorName": "MuleSoft Anypoint",
+    "source": "rss",
+    "title": "Governing an External API with MuleSoft Omni Gateway",
+    "link": "https://medium.com/@kolya.kaplin/governing-an-external-api-with-mulesoft-omni-gateway-55fd0bf762cb?source=rss------mulesoft-5",
+    "publishedAt": "Tue, 16 Jun 2026 18:37:12 GMT",
+    "summary": "An API running on Oracle Cloud. No MuleSoft involved in building it. Can Anypoint Platform govern it anyway? Continue reading on Medium »",
+    "feedTitle": "Mulesoft on Medium",
+    "feedUrl": "https://medium.com/feed/tag/mulesoft"
+  },
+  {
+    "id": "rss-mulesoft-1781662334583-2",
+    "competitorId": "mulesoft",
+    "competitorName": "MuleSoft Anypoint",
+    "source": "rss",
+    "title": "20 MuleSoft Interview Questions Based on My Experience",
+    "link": "https://medium.com/@doriansabitov1/20-mulesoft-interview-questions-based-on-my-experience-356956deedf4?source=rss------mulesoft-5",
+    "publishedAt": "Tue, 16 Jun 2026 10:18:27 GMT",
+    "summary": "MuleSoft interviews often test more than definitions. A candidate may be asked about Anypoint Platform, Mule flows, DataWeave, API-led… Continue reading on Medium »",
+    "feedTitle": "Mulesoft on Medium",
+    "feedUrl": "https://medium.com/feed/tag/mulesoft"
+  },
+  {
+    "id": "rss-boomi-1781662334595-0",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -12,7 +48,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-mulesoft-1781576189588-0",
+    "id": "rss-mulesoft-1781662334583-3",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -24,7 +60,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-mulesoft-1781576189588-1",
+    "id": "rss-mulesoft-1781662334583-4",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -36,7 +72,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-mulesoft-1781576189588-2",
+    "id": "rss-mulesoft-1781662334583-5",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -48,7 +84,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-boomi-1781576189766-1",
+    "id": "rss-boomi-1781662334595-1",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -60,7 +96,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-boomi-1781576189766-2",
+    "id": "rss-boomi-1781662334595-2",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -72,7 +108,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-mulesoft-1781576189588-3",
+    "id": "rss-mulesoft-1781662334583-6",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -84,7 +120,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-boomi-1781576189766-3",
+    "id": "rss-boomi-1781662334595-3",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -96,7 +132,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-mulesoft-1781576189588-4",
+    "id": "rss-mulesoft-1781662334583-7",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -108,7 +144,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-mulesoft-1781576189588-5",
+    "id": "rss-mulesoft-1781662334583-8",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -120,7 +156,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-mulesoft-1781576189588-6",
+    "id": "rss-mulesoft-1781662334583-9",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -132,43 +168,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-mulesoft-1781576189588-7",
-    "competitorId": "mulesoft",
-    "competitorName": "MuleSoft Anypoint",
-    "source": "rss",
-    "title": "Part 1. Mule 4 Error Handling Series",
-    "link": "https://faun.pub/part-1-mule-4-error-handling-series-5f5032bbb968?source=rss------mulesoft-5",
-    "publishedAt": "Thu, 11 Jun 2026 06:08:11 GMT",
-    "summary": "Understanding Errors in Mule 4: The Foundation Every Integration Developer Must Know. Continue reading on FAUN.dev() »",
-    "feedTitle": "Mulesoft on Medium",
-    "feedUrl": "https://medium.com/feed/tag/mulesoft"
-  },
-  {
-    "id": "rss-mulesoft-1781576189588-8",
-    "competitorId": "mulesoft",
-    "competitorName": "MuleSoft Anypoint",
-    "source": "rss",
-    "title": "How One Failed Message Can Cost Thousands: Avoiding Infinite Redelivery Loops in Anypoint MQ",
-    "link": "https://medium.com/@durgasyamalaperuri/how-one-failed-message-can-cost-thousands-avoiding-infinite-redelivery-loops-in-anypoint-mq-a3f2a8b2f4c4?source=rss------mulesoft-5",
-    "publishedAt": "Wed, 10 Jun 2026 17:26:01 GMT",
-    "summary": "Introduction Continue reading on Medium »",
-    "feedTitle": "Mulesoft on Medium",
-    "feedUrl": "https://medium.com/feed/tag/mulesoft"
-  },
-  {
-    "id": "rss-mulesoft-1781576189588-9",
-    "competitorId": "mulesoft",
-    "competitorName": "MuleSoft Anypoint",
-    "source": "rss",
-    "title": "Mastering Modern MuleSoft Batch Processing (Part 2): Under the Hood & Engine Configuration",
-    "link": "https://medium.com/@rahulkumarofficial/mastering-modern-mulesoft-batch-processing-part-2-under-the-hood-engine-configuration-e6e57a43db69?source=rss------mulesoft-5",
-    "publishedAt": "Wed, 10 Jun 2026 16:37:39 GMT",
-    "summary": "In Part 1, we established why standard synchronous loops like For Each crumble under the weight of massive datasets and why the Batch Job… Continue reading on Medium »",
-    "feedTitle": "Mulesoft on Medium",
-    "feedUrl": "https://medium.com/feed/tag/mulesoft"
-  },
-  {
-    "id": "rss-kong-1781576189676-0",
+    "id": "rss-kong-1781662334741-0",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -180,7 +180,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-boomi-1781576189766-4",
+    "id": "rss-boomi-1781662334595-4",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -192,7 +192,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-apigee-1781576189899-0",
+    "id": "rss-apigee-1781662334615-0",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -204,7 +204,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-boomi-1781576189766-5",
+    "id": "rss-boomi-1781662334595-5",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -216,7 +216,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-boomi-1781576189766-6",
+    "id": "rss-boomi-1781662334595-6",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -228,7 +228,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-boomi-1781576189766-7",
+    "id": "rss-boomi-1781662334595-7",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -240,7 +240,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-apigee-1781576189899-1",
+    "id": "rss-apigee-1781662334615-1",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -252,7 +252,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1781576189899-2",
+    "id": "rss-apigee-1781662334615-2",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -264,7 +264,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1781576189899-3",
+    "id": "rss-apigee-1781662334615-3",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -276,7 +276,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-boomi-1781576189766-8",
+    "id": "rss-boomi-1781662334595-8",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -288,7 +288,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-kong-1781576189676-1",
+    "id": "rss-kong-1781662334741-1",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -300,7 +300,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-kong-1781576189676-2",
+    "id": "rss-kong-1781662334741-2",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -312,7 +312,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-apigee-1781576189899-4",
+    "id": "rss-apigee-1781662334615-4",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -324,7 +324,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1781576189899-5",
+    "id": "rss-apigee-1781662334615-5",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -336,7 +336,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1781576189899-6",
+    "id": "rss-apigee-1781662334615-6",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -348,7 +348,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-boomi-1781576189766-9",
+    "id": "rss-boomi-1781662334595-9",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -360,7 +360,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-apigee-1781576189899-7",
+    "id": "rss-apigee-1781662334615-7",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -372,7 +372,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1781576189899-8",
+    "id": "rss-apigee-1781662334615-8",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -384,7 +384,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1781576189899-9",
+    "id": "rss-apigee-1781662334615-9",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -396,7 +396,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1781576189899-10",
+    "id": "rss-apigee-1781662334615-10",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -408,7 +408,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1781576189899-11",
+    "id": "rss-apigee-1781662334615-11",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -420,7 +420,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1781576189899-12",
+    "id": "rss-apigee-1781662334615-12",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -432,7 +432,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1781576189899-13",
+    "id": "rss-apigee-1781662334615-13",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -444,7 +444,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1781576189899-14",
+    "id": "rss-apigee-1781662334615-14",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -456,7 +456,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-kong-1781576189676-3",
+    "id": "rss-kong-1781662334741-3",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -468,7 +468,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-ibm-1781576189579-0",
+    "id": "rss-ibm-1781662334677-0",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -480,7 +480,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-kong-1781576189676-4",
+    "id": "rss-kong-1781662334741-4",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -492,7 +492,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-ibm-1781576189580-1",
+    "id": "rss-ibm-1781662334677-1",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -504,7 +504,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-kong-1781576189676-5",
+    "id": "rss-kong-1781662334741-5",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -516,7 +516,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-kong-1781576189676-6",
+    "id": "rss-kong-1781662334741-6",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -528,7 +528,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-kong-1781576189676-7",
+    "id": "rss-kong-1781662334741-7",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -540,7 +540,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-kong-1781576189676-8",
+    "id": "rss-kong-1781662334741-8",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -552,7 +552,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-kong-1781576189676-9",
+    "id": "rss-kong-1781662334741-9",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -564,7 +564,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-ibm-1781576189580-2",
+    "id": "rss-ibm-1781662334677-2",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -576,7 +576,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1781576189580-3",
+    "id": "rss-ibm-1781662334677-3",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -588,7 +588,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1781576189580-4",
+    "id": "rss-ibm-1781662334677-4",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -600,7 +600,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1781576189580-5",
+    "id": "rss-ibm-1781662334677-5",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -612,7 +612,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1781576189580-6",
+    "id": "rss-ibm-1781662334677-6",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -624,7 +624,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1781576189580-7",
+    "id": "rss-ibm-1781662334677-7",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -636,7 +636,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1781576189580-8",
+    "id": "rss-ibm-1781662334677-8",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -648,7 +648,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1781576189580-9",
+    "id": "rss-ibm-1781662334677-9",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",

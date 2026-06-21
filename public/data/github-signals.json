@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43626,
+    "stars": 43631,
     "forks": 5154,
     "openIssues": 150,
-    "watchers": 43626,
+    "watchers": 43631,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
     "pushedAt": "2026-06-17T08:27:14Z",
-    "fetchedAt": "2026-06-20T01:59:49.868Z"
+    "fetchedAt": "2026-06-21T02:11:24.381Z"
   },
   {
     "competitorId": "apigee",
@@ -45,10 +45,10 @@
     "repo": "google-cloud-node",
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
-    "stars": 3177,
-    "forks": 682,
-    "openIssues": 612,
-    "watchers": 3177,
+    "stars": 3178,
+    "forks": 684,
+    "openIssues": 613,
+    "watchers": 3178,
     "language": "JavaScript",
     "topics": [
       "google-cloud",
@@ -59,7 +59,7 @@
     "latestReleaseDate": "2026-06-18T21:35:45Z",
     "latestReleaseName": "gapic-node-processing: v0.1.9",
     "pushedAt": "2026-06-19T21:25:30Z",
-    "fetchedAt": "2026-06-20T01:59:50.445Z"
+    "fetchedAt": "2026-06-21T02:11:24.868Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-06-20T01:59:51.023Z"
+    "fetchedAt": "2026-06-21T02:11:25.375Z"
   },
   {
     "competitorId": "solo",
@@ -99,6 +99,6 @@
     "latestReleaseDate": "2026-06-12T21:44:58Z",
     "latestReleaseName": "v1.21.9",
     "pushedAt": "2026-06-16T21:27:23Z",
-    "fetchedAt": "2026-06-20T01:59:51.634Z"
+    "fetchedAt": "2026-06-21T02:11:25.926Z"
   }
 ]

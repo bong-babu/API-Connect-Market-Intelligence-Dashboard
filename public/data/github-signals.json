@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43650,
-    "forks": 5156,
-    "openIssues": 150,
-    "watchers": 43650,
+    "stars": 43663,
+    "forks": 5159,
+    "openIssues": 151,
+    "watchers": 43663,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
     "pushedAt": "2026-06-17T08:27:14Z",
-    "fetchedAt": "2026-06-23T01:53:50.053Z"
+    "fetchedAt": "2026-06-24T01:52:11.598Z"
   },
   {
     "competitorId": "apigee",
@@ -45,21 +45,21 @@
     "repo": "google-cloud-node",
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
-    "stars": 3183,
-    "forks": 684,
-    "openIssues": 622,
-    "watchers": 3183,
+    "stars": 3182,
+    "forks": 683,
+    "openIssues": 617,
+    "watchers": 3182,
     "language": "JavaScript",
     "topics": [
       "google-cloud",
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "gapic-node-processing-v0.1.9",
-    "latestReleaseDate": "2026-06-18T21:35:45Z",
-    "latestReleaseName": "gapic-node-processing: v0.1.9",
-    "pushedAt": "2026-06-22T23:41:52Z",
-    "fetchedAt": "2026-06-23T01:53:50.586Z"
+    "latestReleaseTag": "google-auth-library-v10.8.1",
+    "latestReleaseDate": "2026-06-23T22:29:26Z",
+    "latestReleaseName": "google-auth-library: v10.8.1",
+    "pushedAt": "2026-06-23T22:29:29Z",
+    "fetchedAt": "2026-06-24T01:52:12.105Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-06-23T01:53:51.108Z"
+    "fetchedAt": "2026-06-24T01:52:12.591Z"
   },
   {
     "competitorId": "solo",
@@ -87,7 +87,7 @@
     "fullName": "solo-io/gloo",
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 163,
-    "forks": 13,
+    "forks": 12,
     "openIssues": 1862,
     "watchers": 163,
     "language": "Go",
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.21.9",
     "latestReleaseDate": "2026-06-12T21:44:58Z",
     "latestReleaseName": "v1.21.9",
-    "pushedAt": "2026-06-22T20:58:22Z",
-    "fetchedAt": "2026-06-23T01:53:51.662Z"
+    "pushedAt": "2026-06-23T18:52:28Z",
+    "fetchedAt": "2026-06-24T01:52:13.138Z"
   }
 ]

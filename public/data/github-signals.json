@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43663,
-    "forks": 5159,
+    "stars": 43671,
+    "forks": 5158,
     "openIssues": 151,
-    "watchers": 43663,
+    "watchers": 43671,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
     "pushedAt": "2026-06-17T08:27:14Z",
-    "fetchedAt": "2026-06-24T01:52:11.598Z"
+    "fetchedAt": "2026-06-25T01:56:14.773Z"
   },
   {
     "competitorId": "apigee",
@@ -45,21 +45,21 @@
     "repo": "google-cloud-node",
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
-    "stars": 3182,
+    "stars": 3181,
     "forks": 683,
-    "openIssues": 617,
-    "watchers": 3182,
+    "openIssues": 637,
+    "watchers": 3181,
     "language": "JavaScript",
     "topics": [
       "google-cloud",
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "google-auth-library-v10.8.1",
-    "latestReleaseDate": "2026-06-23T22:29:26Z",
-    "latestReleaseName": "google-auth-library: v10.8.1",
-    "pushedAt": "2026-06-23T22:29:29Z",
-    "fetchedAt": "2026-06-24T01:52:12.105Z"
+    "latestReleaseTag": "google-auth-library-v10.9.0",
+    "latestReleaseDate": "2026-06-24T18:00:11Z",
+    "latestReleaseName": "google-auth-library: v10.9.0",
+    "pushedAt": "2026-06-25T01:40:01Z",
+    "fetchedAt": "2026-06-25T01:56:15.266Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-06-24T01:52:12.591Z"
+    "fetchedAt": "2026-06-25T01:56:15.770Z"
   },
   {
     "competitorId": "solo",
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.21.9",
     "latestReleaseDate": "2026-06-12T21:44:58Z",
     "latestReleaseName": "v1.21.9",
-    "pushedAt": "2026-06-23T18:52:28Z",
-    "fetchedAt": "2026-06-24T01:52:13.138Z"
+    "pushedAt": "2026-06-24T22:05:52Z",
+    "fetchedAt": "2026-06-25T01:56:16.282Z"
   }
 ]

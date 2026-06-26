@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43671,
-    "forks": 5158,
+    "stars": 43675,
+    "forks": 5157,
     "openIssues": 151,
-    "watchers": 43671,
+    "watchers": 43675,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
     "pushedAt": "2026-06-17T08:27:14Z",
-    "fetchedAt": "2026-06-25T01:56:14.773Z"
+    "fetchedAt": "2026-06-26T01:57:51.430Z"
   },
   {
     "competitorId": "apigee",
@@ -46,8 +46,8 @@
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3181,
-    "forks": 683,
-    "openIssues": 637,
+    "forks": 684,
+    "openIssues": 649,
     "watchers": 3181,
     "language": "JavaScript",
     "topics": [
@@ -55,11 +55,11 @@
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "google-auth-library-v10.9.0",
-    "latestReleaseDate": "2026-06-24T18:00:11Z",
-    "latestReleaseName": "google-auth-library: v10.9.0",
-    "pushedAt": "2026-06-25T01:40:01Z",
-    "fetchedAt": "2026-06-25T01:56:15.266Z"
+    "latestReleaseTag": "jsdoc-fresh-v5.0.4",
+    "latestReleaseDate": "2026-06-25T20:23:59Z",
+    "latestReleaseName": "jsdoc-fresh: v5.0.4",
+    "pushedAt": "2026-06-25T23:37:47Z",
+    "fetchedAt": "2026-06-26T01:57:52.033Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-06-25T01:56:15.770Z"
+    "fetchedAt": "2026-06-26T01:57:52.557Z"
   },
   {
     "competitorId": "solo",
@@ -86,10 +86,10 @@
     "repo": "gloo",
     "fullName": "solo-io/gloo",
     "description": "The Cloud-Native API Gateway and AI Gateway",
-    "stars": 163,
+    "stars": 164,
     "forks": 12,
-    "openIssues": 1862,
-    "watchers": 163,
+    "openIssues": 1863,
+    "watchers": 164,
     "language": "Go",
     "topics": [
       "sec"
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.21.9",
     "latestReleaseDate": "2026-06-12T21:44:58Z",
     "latestReleaseName": "v1.21.9",
-    "pushedAt": "2026-06-24T22:05:52Z",
-    "fetchedAt": "2026-06-25T01:56:16.282Z"
+    "pushedAt": "2026-06-26T01:29:30Z",
+    "fetchedAt": "2026-06-26T01:57:53.145Z"
   }
 ]

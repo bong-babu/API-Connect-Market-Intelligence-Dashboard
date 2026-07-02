@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43702,
-    "forks": 5160,
-    "openIssues": 155,
-    "watchers": 43702,
+    "stars": 43707,
+    "forks": 5162,
+    "openIssues": 154,
+    "watchers": 43707,
     "language": "Lua",
     "topics": [
       "ai",
@@ -36,8 +36,8 @@
     "latestReleaseTag": "3.9.3",
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
-    "pushedAt": "2026-06-29T09:48:26Z",
-    "fetchedAt": "2026-07-01T02:02:26.633Z"
+    "pushedAt": "2026-07-01T07:16:53Z",
+    "fetchedAt": "2026-07-02T01:56:03.083Z"
   },
   {
     "competitorId": "apigee",
@@ -47,7 +47,7 @@
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3182,
     "forks": 687,
-    "openIssues": 645,
+    "openIssues": 642,
     "watchers": 3182,
     "language": "JavaScript",
     "topics": [
@@ -55,11 +55,11 @@
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "capacityplanner-v0.2.0",
-    "latestReleaseDate": "2026-06-30T20:29:57Z",
-    "latestReleaseName": "capacityplanner: v0.2.0",
-    "pushedAt": "2026-07-01T01:59:52Z",
-    "fetchedAt": "2026-07-01T02:02:27.195Z"
+    "latestReleaseTag": "gaxios-v7.1.6",
+    "latestReleaseDate": "2026-07-01T02:40:28Z",
+    "latestReleaseName": "gaxios: v7.1.6",
+    "pushedAt": "2026-07-01T23:59:16Z",
+    "fetchedAt": "2026-07-02T01:56:03.625Z"
   },
   {
     "competitorId": "mulesoft",
@@ -68,7 +68,7 @@
     "fullName": "mulesoft/mule",
     "description": "Mule Community Edition",
     "stars": 498,
-    "forks": 693,
+    "forks": 692,
     "openIssues": 15,
     "watchers": 498,
     "language": "Java",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-07-01T02:02:27.760Z"
+    "fetchedAt": "2026-07-02T01:56:04.150Z"
   },
   {
     "competitorId": "solo",
@@ -88,7 +88,7 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 164,
     "forks": 12,
-    "openIssues": 1865,
+    "openIssues": 1864,
     "watchers": 164,
     "language": "Go",
     "topics": [
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.21.9",
     "latestReleaseDate": "2026-06-12T21:44:58Z",
     "latestReleaseName": "v1.21.9",
-    "pushedAt": "2026-06-30T21:08:20Z",
-    "fetchedAt": "2026-07-01T02:02:28.356Z"
+    "pushedAt": "2026-07-01T20:51:04Z",
+    "fetchedAt": "2026-07-02T01:56:04.752Z"
   }
 ]

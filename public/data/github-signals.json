@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43707,
-    "forks": 5162,
+    "stars": 43715,
+    "forks": 5164,
     "openIssues": 154,
-    "watchers": 43707,
+    "watchers": 43715,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
     "pushedAt": "2026-07-01T07:16:53Z",
-    "fetchedAt": "2026-07-02T01:56:03.083Z"
+    "fetchedAt": "2026-07-03T01:25:53.326Z"
   },
   {
     "competitorId": "apigee",
@@ -58,8 +58,8 @@
     "latestReleaseTag": "gaxios-v7.1.6",
     "latestReleaseDate": "2026-07-01T02:40:28Z",
     "latestReleaseName": "gaxios: v7.1.6",
-    "pushedAt": "2026-07-01T23:59:16Z",
-    "fetchedAt": "2026-07-02T01:56:03.625Z"
+    "pushedAt": "2026-07-02T21:19:02Z",
+    "fetchedAt": "2026-07-03T01:25:53.956Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-07-02T01:56:04.150Z"
+    "fetchedAt": "2026-07-03T01:25:54.599Z"
   },
   {
     "competitorId": "solo",
@@ -88,7 +88,7 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 164,
     "forks": 12,
-    "openIssues": 1864,
+    "openIssues": 1865,
     "watchers": 164,
     "language": "Go",
     "topics": [
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.21.9",
     "latestReleaseDate": "2026-06-12T21:44:58Z",
     "latestReleaseName": "v1.21.9",
-    "pushedAt": "2026-07-01T20:51:04Z",
-    "fetchedAt": "2026-07-02T01:56:04.752Z"
+    "pushedAt": "2026-07-02T21:50:58Z",
+    "fetchedAt": "2026-07-03T01:25:55.259Z"
   }
 ]

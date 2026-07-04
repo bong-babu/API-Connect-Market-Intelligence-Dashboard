@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43715,
-    "forks": 5164,
+    "stars": 43724,
+    "forks": 5166,
     "openIssues": 154,
-    "watchers": 43715,
+    "watchers": 43724,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
     "pushedAt": "2026-07-01T07:16:53Z",
-    "fetchedAt": "2026-07-03T01:25:53.326Z"
+    "fetchedAt": "2026-07-04T01:26:00.756Z"
   },
   {
     "competitorId": "apigee",
@@ -47,7 +47,7 @@
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3182,
     "forks": 687,
-    "openIssues": 642,
+    "openIssues": 640,
     "watchers": 3182,
     "language": "JavaScript",
     "topics": [
@@ -58,8 +58,8 @@
     "latestReleaseTag": "gaxios-v7.1.6",
     "latestReleaseDate": "2026-07-01T02:40:28Z",
     "latestReleaseName": "gaxios: v7.1.6",
-    "pushedAt": "2026-07-02T21:19:02Z",
-    "fetchedAt": "2026-07-03T01:25:53.956Z"
+    "pushedAt": "2026-07-03T20:10:00Z",
+    "fetchedAt": "2026-07-04T01:26:01.293Z"
   },
   {
     "competitorId": "mulesoft",
@@ -68,7 +68,7 @@
     "fullName": "mulesoft/mule",
     "description": "Mule Community Edition",
     "stars": 498,
-    "forks": 692,
+    "forks": 693,
     "openIssues": 15,
     "watchers": 498,
     "language": "Java",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-07-03T01:25:54.599Z"
+    "fetchedAt": "2026-07-04T01:26:01.850Z"
   },
   {
     "competitorId": "solo",
@@ -88,7 +88,7 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 164,
     "forks": 12,
-    "openIssues": 1865,
+    "openIssues": 1864,
     "watchers": 164,
     "language": "Go",
     "topics": [
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.21.9",
     "latestReleaseDate": "2026-06-12T21:44:58Z",
     "latestReleaseName": "v1.21.9",
-    "pushedAt": "2026-07-02T21:50:58Z",
-    "fetchedAt": "2026-07-03T01:25:55.259Z"
+    "pushedAt": "2026-07-03T15:03:27Z",
+    "fetchedAt": "2026-07-04T01:26:02.453Z"
   }
 ]

@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43768,
-    "forks": 5172,
+    "stars": 43769,
+    "forks": 5173,
     "openIssues": 155,
-    "watchers": 43768,
+    "watchers": 43769,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
     "pushedAt": "2026-07-01T07:16:53Z",
-    "fetchedAt": "2026-07-11T01:15:56.865Z"
+    "fetchedAt": "2026-07-12T01:17:54.002Z"
   },
   {
     "competitorId": "apigee",
@@ -47,7 +47,7 @@
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3183,
     "forks": 689,
-    "openIssues": 635,
+    "openIssues": 636,
     "watchers": 3183,
     "language": "JavaScript",
     "topics": [
@@ -58,8 +58,8 @@
     "latestReleaseTag": "projectify-v5.1.0",
     "latestReleaseDate": "2026-07-09T21:00:14Z",
     "latestReleaseName": "projectify: v5.1.0",
-    "pushedAt": "2026-07-10T21:49:58Z",
-    "fetchedAt": "2026-07-11T01:15:57.437Z"
+    "pushedAt": "2026-07-11T22:11:55Z",
+    "fetchedAt": "2026-07-12T01:17:54.564Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-07-11T01:15:57.993Z"
+    "fetchedAt": "2026-07-12T01:17:55.106Z"
   },
   {
     "competitorId": "solo",
@@ -86,10 +86,10 @@
     "repo": "gloo",
     "fullName": "solo-io/gloo",
     "description": "The Cloud-Native API Gateway and AI Gateway",
-    "stars": 165,
+    "stars": 166,
     "forks": 12,
     "openIssues": 1868,
-    "watchers": 165,
+    "watchers": 166,
     "language": "Go",
     "topics": [
       "sec"
@@ -99,6 +99,6 @@
     "latestReleaseDate": "2026-06-12T21:44:58Z",
     "latestReleaseName": "v1.21.9",
     "pushedAt": "2026-07-10T15:17:47Z",
-    "fetchedAt": "2026-07-11T01:15:58.616Z"
+    "fetchedAt": "2026-07-12T01:17:55.715Z"
   }
 ]

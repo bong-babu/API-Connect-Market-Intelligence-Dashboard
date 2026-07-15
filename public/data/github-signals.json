@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43778,
+    "stars": 43784,
     "forks": 5176,
-    "openIssues": 154,
-    "watchers": 43778,
+    "openIssues": 160,
+    "watchers": 43784,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
     "pushedAt": "2026-07-01T07:16:53Z",
-    "fetchedAt": "2026-07-14T01:08:43.728Z"
+    "fetchedAt": "2026-07-15T01:06:10.889Z"
   },
   {
     "competitorId": "apigee",
@@ -46,8 +46,8 @@
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3185,
-    "forks": 690,
-    "openIssues": 636,
+    "forks": 692,
+    "openIssues": 634,
     "watchers": 3185,
     "language": "JavaScript",
     "topics": [
@@ -58,8 +58,8 @@
     "latestReleaseTag": "gapic-generator-v4.12.2",
     "latestReleaseDate": "2026-07-13T22:50:24Z",
     "latestReleaseName": "gapic-generator: v4.12.2",
-    "pushedAt": "2026-07-13T22:50:27Z",
-    "fetchedAt": "2026-07-14T01:08:44.242Z"
+    "pushedAt": "2026-07-14T22:08:05Z",
+    "fetchedAt": "2026-07-15T01:06:11.457Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-07-14T01:08:44.762Z"
+    "fetchedAt": "2026-07-15T01:06:11.976Z"
   },
   {
     "competitorId": "solo",
@@ -86,10 +86,10 @@
     "repo": "gloo",
     "fullName": "solo-io/gloo",
     "description": "The Cloud-Native API Gateway and AI Gateway",
-    "stars": 166,
+    "stars": 167,
     "forks": 12,
-    "openIssues": 1868,
-    "watchers": 166,
+    "openIssues": 1866,
+    "watchers": 167,
     "language": "Go",
     "topics": [
       "sec"
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.21.9",
     "latestReleaseDate": "2026-06-12T21:44:58Z",
     "latestReleaseName": "v1.21.9",
-    "pushedAt": "2026-07-13T21:43:28Z",
-    "fetchedAt": "2026-07-14T01:08:45.313Z"
+    "pushedAt": "2026-07-14T23:53:05Z",
+    "fetchedAt": "2026-07-15T01:06:12.545Z"
   }
 ]

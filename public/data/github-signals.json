@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43813,
+    "stars": 43823,
     "forks": 5182,
-    "openIssues": 167,
-    "watchers": 43813,
+    "openIssues": 166,
+    "watchers": 43823,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
     "pushedAt": "2026-07-01T07:16:53Z",
-    "fetchedAt": "2026-07-20T01:19:04.846Z"
+    "fetchedAt": "2026-07-21T01:15:56.596Z"
   },
   {
     "competitorId": "apigee",
@@ -45,21 +45,21 @@
     "repo": "google-cloud-node",
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
-    "stars": 3191,
+    "stars": 3192,
     "forks": 694,
-    "openIssues": 631,
-    "watchers": 3191,
-    "language": "JavaScript",
+    "openIssues": 629,
+    "watchers": 3192,
+    "language": "TypeScript",
     "topics": [
       "google-cloud",
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "gapic-tools-v1.1.0",
-    "latestReleaseDate": "2026-07-16T20:25:17Z",
-    "latestReleaseName": "gapic-tools: v1.1.0",
-    "pushedAt": "2026-07-17T23:08:11Z",
-    "fetchedAt": "2026-07-20T01:19:05.457Z"
+    "latestReleaseTag": "google-cloud-spanner-api-v0.2.0",
+    "latestReleaseDate": "2026-07-20T21:49:26Z",
+    "latestReleaseName": "google-cloud-spanner-api: v0.2.0",
+    "pushedAt": "2026-07-20T21:49:29Z",
+    "fetchedAt": "2026-07-21T01:15:57.115Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-07-20T01:19:06.084Z"
+    "fetchedAt": "2026-07-21T01:15:57.652Z"
   },
   {
     "competitorId": "solo",
@@ -86,10 +86,10 @@
     "repo": "gloo",
     "fullName": "solo-io/gloo",
     "description": "The Cloud-Native API Gateway and AI Gateway",
-    "stars": 167,
+    "stars": 168,
     "forks": 12,
     "openIssues": 1865,
-    "watchers": 167,
+    "watchers": 168,
     "language": "Go",
     "topics": [
       "sec"
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.21.12",
     "latestReleaseDate": "2026-07-16T16:54:41Z",
     "latestReleaseName": "v1.21.12",
-    "pushedAt": "2026-07-17T21:35:20Z",
-    "fetchedAt": "2026-07-20T01:19:06.890Z"
+    "pushedAt": "2026-07-20T22:06:58Z",
+    "fetchedAt": "2026-07-21T01:15:58.204Z"
   }
 ]

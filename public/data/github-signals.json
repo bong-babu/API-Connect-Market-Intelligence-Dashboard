@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43823,
-    "forks": 5182,
+    "stars": 43827,
+    "forks": 5183,
     "openIssues": 166,
-    "watchers": 43823,
+    "watchers": 43827,
     "language": "Lua",
     "topics": [
       "ai",
@@ -36,8 +36,8 @@
     "latestReleaseTag": "3.9.3",
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
-    "pushedAt": "2026-07-01T07:16:53Z",
-    "fetchedAt": "2026-07-21T01:15:56.596Z"
+    "pushedAt": "2026-07-21T10:07:39Z",
+    "fetchedAt": "2026-07-22T01:14:52.716Z"
   },
   {
     "competitorId": "apigee",
@@ -46,8 +46,8 @@
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3192,
-    "forks": 694,
-    "openIssues": 629,
+    "forks": 696,
+    "openIssues": 625,
     "watchers": 3192,
     "language": "TypeScript",
     "topics": [
@@ -55,11 +55,11 @@
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "google-cloud-spanner-api-v0.2.0",
-    "latestReleaseDate": "2026-07-20T21:49:26Z",
-    "latestReleaseName": "google-cloud-spanner-api: v0.2.0",
-    "pushedAt": "2026-07-20T21:49:29Z",
-    "fetchedAt": "2026-07-21T01:15:57.115Z"
+    "latestReleaseTag": "products-v0.10.0",
+    "latestReleaseDate": "2026-07-21T17:50:06Z",
+    "latestReleaseName": "products: v0.10.0",
+    "pushedAt": "2026-07-21T22:54:17Z",
+    "fetchedAt": "2026-07-22T01:14:53.325Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-07-21T01:15:57.652Z"
+    "fetchedAt": "2026-07-22T01:14:53.952Z"
   },
   {
     "competitorId": "solo",
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.21.12",
     "latestReleaseDate": "2026-07-16T16:54:41Z",
     "latestReleaseName": "v1.21.12",
-    "pushedAt": "2026-07-20T22:06:58Z",
-    "fetchedAt": "2026-07-21T01:15:58.204Z"
+    "pushedAt": "2026-07-21T19:24:30Z",
+    "fetchedAt": "2026-07-22T01:14:54.587Z"
   }
 ]

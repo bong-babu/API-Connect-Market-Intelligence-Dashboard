@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43827,
-    "forks": 5183,
-    "openIssues": 166,
-    "watchers": 43827,
+    "stars": 43834,
+    "forks": 5185,
+    "openIssues": 165,
+    "watchers": 43834,
     "language": "Lua",
     "topics": [
       "ai",
@@ -36,8 +36,8 @@
     "latestReleaseTag": "3.9.3",
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
-    "pushedAt": "2026-07-21T10:07:39Z",
-    "fetchedAt": "2026-07-22T01:14:52.716Z"
+    "pushedAt": "2026-07-22T08:06:35Z",
+    "fetchedAt": "2026-07-23T01:21:49.482Z"
   },
   {
     "competitorId": "apigee",
@@ -45,21 +45,21 @@
     "repo": "google-cloud-node",
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
-    "stars": 3192,
+    "stars": 3193,
     "forks": 696,
-    "openIssues": 625,
-    "watchers": 3192,
+    "openIssues": 628,
+    "watchers": 3193,
     "language": "TypeScript",
     "topics": [
       "google-cloud",
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "products-v0.10.0",
-    "latestReleaseDate": "2026-07-21T17:50:06Z",
-    "latestReleaseName": "products: v0.10.0",
-    "pushedAt": "2026-07-21T22:54:17Z",
-    "fetchedAt": "2026-07-22T01:14:53.325Z"
+    "latestReleaseTag": "commerceproducer-v0.1.0",
+    "latestReleaseDate": "2026-07-22T23:50:32Z",
+    "latestReleaseName": "commerceproducer: v0.1.0",
+    "pushedAt": "2026-07-22T23:50:35Z",
+    "fetchedAt": "2026-07-23T01:21:50.062Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-07-22T01:14:53.952Z"
+    "fetchedAt": "2026-07-23T01:21:50.790Z"
   },
   {
     "competitorId": "solo",
@@ -88,7 +88,7 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 168,
     "forks": 12,
-    "openIssues": 1865,
+    "openIssues": 1863,
     "watchers": 168,
     "language": "Go",
     "topics": [
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.21.12",
     "latestReleaseDate": "2026-07-16T16:54:41Z",
     "latestReleaseName": "v1.21.12",
-    "pushedAt": "2026-07-21T19:24:30Z",
-    "fetchedAt": "2026-07-22T01:14:54.587Z"
+    "pushedAt": "2026-07-22T21:15:20Z",
+    "fetchedAt": "2026-07-23T01:21:51.470Z"
   }
 ]

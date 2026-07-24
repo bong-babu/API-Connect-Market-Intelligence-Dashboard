@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43834,
-    "forks": 5185,
-    "openIssues": 165,
-    "watchers": 43834,
+    "stars": 43844,
+    "forks": 5189,
+    "openIssues": 167,
+    "watchers": 43844,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
     "pushedAt": "2026-07-22T08:06:35Z",
-    "fetchedAt": "2026-07-23T01:21:49.482Z"
+    "fetchedAt": "2026-07-24T01:17:41.105Z"
   },
   {
     "competitorId": "apigee",
@@ -47,7 +47,7 @@
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3193,
     "forks": 696,
-    "openIssues": 628,
+    "openIssues": 632,
     "watchers": 3193,
     "language": "TypeScript",
     "topics": [
@@ -55,11 +55,11 @@
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "commerceproducer-v0.1.0",
-    "latestReleaseDate": "2026-07-22T23:50:32Z",
-    "latestReleaseName": "commerceproducer: v0.1.0",
-    "pushedAt": "2026-07-22T23:50:35Z",
-    "fetchedAt": "2026-07-23T01:21:50.062Z"
+    "latestReleaseTag": "isochrones-v0.1.0",
+    "latestReleaseDate": "2026-07-23T22:30:43Z",
+    "latestReleaseName": "isochrones: v0.1.0",
+    "pushedAt": "2026-07-23T23:56:05Z",
+    "fetchedAt": "2026-07-24T01:17:41.715Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-07-23T01:21:50.790Z"
+    "fetchedAt": "2026-07-24T01:17:42.309Z"
   },
   {
     "competitorId": "solo",
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.21.12",
     "latestReleaseDate": "2026-07-16T16:54:41Z",
     "latestReleaseName": "v1.21.12",
-    "pushedAt": "2026-07-22T21:15:20Z",
-    "fetchedAt": "2026-07-23T01:21:51.470Z"
+    "pushedAt": "2026-07-23T16:34:12Z",
+    "fetchedAt": "2026-07-24T01:17:43.088Z"
   }
 ]

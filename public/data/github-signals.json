@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43844,
-    "forks": 5189,
+    "stars": 43855,
+    "forks": 5188,
     "openIssues": 167,
-    "watchers": 43844,
+    "watchers": 43855,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
     "pushedAt": "2026-07-22T08:06:35Z",
-    "fetchedAt": "2026-07-24T01:17:41.105Z"
+    "fetchedAt": "2026-07-25T01:18:35.116Z"
   },
   {
     "competitorId": "apigee",
@@ -47,7 +47,7 @@
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3193,
     "forks": 696,
-    "openIssues": 632,
+    "openIssues": 627,
     "watchers": 3193,
     "language": "TypeScript",
     "topics": [
@@ -55,11 +55,11 @@
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "isochrones-v0.1.0",
-    "latestReleaseDate": "2026-07-23T22:30:43Z",
-    "latestReleaseName": "isochrones: v0.1.0",
-    "pushedAt": "2026-07-23T23:56:05Z",
-    "fetchedAt": "2026-07-24T01:17:41.715Z"
+    "latestReleaseTag": "gapic-node-processing-v0.1.11",
+    "latestReleaseDate": "2026-07-24T15:51:29Z",
+    "latestReleaseName": "gapic-node-processing: v0.1.11",
+    "pushedAt": "2026-07-24T22:30:27Z",
+    "fetchedAt": "2026-07-25T01:18:35.630Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-07-24T01:17:42.309Z"
+    "fetchedAt": "2026-07-25T01:18:36.129Z"
   },
   {
     "competitorId": "solo",
@@ -99,6 +99,6 @@
     "latestReleaseDate": "2026-07-16T16:54:41Z",
     "latestReleaseName": "v1.21.12",
     "pushedAt": "2026-07-23T16:34:12Z",
-    "fetchedAt": "2026-07-24T01:17:43.088Z"
+    "fetchedAt": "2026-07-25T01:18:36.680Z"
   }
 ]

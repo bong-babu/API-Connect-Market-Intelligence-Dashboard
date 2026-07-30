@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43872,
+    "stars": 43880,
     "forks": 5195,
-    "openIssues": 171,
-    "watchers": 43872,
+    "openIssues": 174,
+    "watchers": 43880,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
     "pushedAt": "2026-07-22T08:06:35Z",
-    "fetchedAt": "2026-07-29T01:16:15.282Z"
+    "fetchedAt": "2026-07-30T01:09:01.024Z"
   },
   {
     "competitorId": "apigee",
@@ -46,8 +46,8 @@
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3194,
-    "forks": 696,
-    "openIssues": 635,
+    "forks": 697,
+    "openIssues": 626,
     "watchers": 3194,
     "language": "TypeScript",
     "topics": [
@@ -55,11 +55,11 @@
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "grafeas-v6.3.0",
-    "latestReleaseDate": "2026-07-29T00:39:57Z",
-    "latestReleaseName": "grafeas: v6.3.0",
-    "pushedAt": "2026-07-29T00:39:59Z",
-    "fetchedAt": "2026-07-29T01:16:15.791Z"
+    "latestReleaseTag": "agentidentity-v0.1.0",
+    "latestReleaseDate": "2026-07-29T21:22:30Z",
+    "latestReleaseName": "agentidentity: v0.1.0",
+    "pushedAt": "2026-07-29T23:28:53Z",
+    "fetchedAt": "2026-07-30T01:09:01.545Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-07-29T01:16:16.275Z"
+    "fetchedAt": "2026-07-30T01:09:02.065Z"
   },
   {
     "competitorId": "solo",
@@ -88,7 +88,7 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 169,
     "forks": 12,
-    "openIssues": 1863,
+    "openIssues": 1867,
     "watchers": 169,
     "language": "Go",
     "topics": [
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.21.12",
     "latestReleaseDate": "2026-07-16T16:54:41Z",
     "latestReleaseName": "v1.21.12",
-    "pushedAt": "2026-07-27T17:26:26Z",
-    "fetchedAt": "2026-07-29T01:16:16.819Z"
+    "pushedAt": "2026-07-29T21:27:27Z",
+    "fetchedAt": "2026-07-30T01:09:02.646Z"
   }
 ]

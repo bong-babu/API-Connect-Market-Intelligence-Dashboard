@@ -8,7 +8,7 @@
     "reviewCount": null,
     "maxRating": 5,
     "fetchStatus": "blocked",
-    "fetchedAt": "2026-07-29T01:16:17.271Z",
+    "fetchedAt": "2026-07-30T01:09:03.175Z",
     "url": "https://www.g2.com/products/ibm-api-connect/reviews",
     "note": "G2 uses JavaScript rendering for full review content. Only JSON-LD structured data (if present) was parsed."
   },
@@ -21,7 +21,7 @@
     "reviewCount": null,
     "maxRating": 5,
     "fetchStatus": "blocked",
-    "fetchedAt": "2026-07-29T01:16:18.794Z",
+    "fetchedAt": "2026-07-30T01:09:04.704Z",
     "url": "https://www.g2.com/products/kong-gateway/reviews",
     "note": "G2 uses JavaScript rendering for full review content. Only JSON-LD structured data (if present) was parsed."
   },
@@ -34,7 +34,7 @@
     "reviewCount": null,
     "maxRating": 5,
     "fetchStatus": "blocked",
-    "fetchedAt": "2026-07-29T01:16:20.318Z",
+    "fetchedAt": "2026-07-30T01:09:06.239Z",
     "url": "https://www.g2.com/products/apigee/reviews",
     "note": "G2 uses JavaScript rendering for full review content. Only JSON-LD structured data (if present) was parsed."
   },
@@ -47,7 +47,7 @@
     "reviewCount": null,
     "maxRating": 5,
     "fetchStatus": "blocked",
-    "fetchedAt": "2026-07-29T01:16:21.841Z",
+    "fetchedAt": "2026-07-30T01:09:07.770Z",
     "url": "https://www.g2.com/products/mulesoft-anypoint-platform/reviews",
     "note": "G2 uses JavaScript rendering for full review content. Only JSON-LD structured data (if present) was parsed."
   },
@@ -60,7 +60,7 @@
     "reviewCount": null,
     "maxRating": 5,
     "fetchStatus": "blocked",
-    "fetchedAt": "2026-07-29T01:16:23.364Z",
+    "fetchedAt": "2026-07-30T01:09:09.302Z",
     "url": "https://www.g2.com/products/solo-io/reviews",
     "note": "G2 uses JavaScript rendering for full review content. Only JSON-LD structured data (if present) was parsed."
   },
@@ -73,7 +73,7 @@
     "reviewCount": null,
     "maxRating": 5,
     "fetchStatus": "blocked",
-    "fetchedAt": "2026-07-29T01:16:24.888Z",
+    "fetchedAt": "2026-07-30T01:09:10.834Z",
     "url": "https://www.g2.com/products/boomi/reviews",
     "note": "G2 uses JavaScript rendering for full review content. Only JSON-LD structured data (if present) was parsed."
   }

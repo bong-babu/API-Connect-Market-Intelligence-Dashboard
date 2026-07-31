@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43880,
-    "forks": 5195,
+    "stars": 43888,
+    "forks": 5194,
     "openIssues": 174,
-    "watchers": 43880,
+    "watchers": 43888,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
     "pushedAt": "2026-07-22T08:06:35Z",
-    "fetchedAt": "2026-07-30T01:09:01.024Z"
+    "fetchedAt": "2026-07-31T01:21:58.686Z"
   },
   {
     "competitorId": "apigee",
@@ -46,8 +46,8 @@
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3194,
-    "forks": 697,
-    "openIssues": 626,
+    "forks": 698,
+    "openIssues": 630,
     "watchers": 3194,
     "language": "TypeScript",
     "topics": [
@@ -58,8 +58,8 @@
     "latestReleaseTag": "agentidentity-v0.1.0",
     "latestReleaseDate": "2026-07-29T21:22:30Z",
     "latestReleaseName": "agentidentity: v0.1.0",
-    "pushedAt": "2026-07-29T23:28:53Z",
-    "fetchedAt": "2026-07-30T01:09:01.545Z"
+    "pushedAt": "2026-07-31T01:13:04Z",
+    "fetchedAt": "2026-07-31T01:21:59.258Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-07-30T01:09:02.065Z"
+    "fetchedAt": "2026-07-31T01:21:59.838Z"
   },
   {
     "competitorId": "solo",
@@ -88,7 +88,7 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 169,
     "forks": 12,
-    "openIssues": 1867,
+    "openIssues": 1865,
     "watchers": 169,
     "language": "Go",
     "topics": [
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.21.12",
     "latestReleaseDate": "2026-07-16T16:54:41Z",
     "latestReleaseName": "v1.21.12",
-    "pushedAt": "2026-07-29T21:27:27Z",
-    "fetchedAt": "2026-07-30T01:09:02.646Z"
+    "pushedAt": "2026-07-30T21:56:03Z",
+    "fetchedAt": "2026-07-31T01:22:00.471Z"
   }
 ]

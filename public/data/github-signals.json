@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43897,
-    "forks": 5193,
+    "stars": 43899,
+    "forks": 5194,
     "openIssues": 173,
-    "watchers": 43897,
+    "watchers": 43899,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
     "pushedAt": "2026-07-22T08:06:35Z",
-    "fetchedAt": "2026-08-01T01:23:15.542Z"
+    "fetchedAt": "2026-08-02T01:20:54.694Z"
   },
   {
     "competitorId": "apigee",
@@ -58,8 +58,8 @@
     "latestReleaseTag": "agentidentity-v0.1.0",
     "latestReleaseDate": "2026-07-29T21:22:30Z",
     "latestReleaseName": "agentidentity: v0.1.0",
-    "pushedAt": "2026-08-01T01:16:30Z",
-    "fetchedAt": "2026-08-01T01:23:16.087Z"
+    "pushedAt": "2026-08-01T22:52:22Z",
+    "fetchedAt": "2026-08-02T01:20:55.214Z"
   },
   {
     "competitorId": "mulesoft",
@@ -68,7 +68,7 @@
     "fullName": "mulesoft/mule",
     "description": "Mule Community Edition",
     "stars": 500,
-    "forks": 693,
+    "forks": 692,
     "openIssues": 15,
     "watchers": 500,
     "language": "Java",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-08-01T01:23:16.647Z"
+    "fetchedAt": "2026-08-02T01:20:55.762Z"
   },
   {
     "competitorId": "solo",
@@ -88,7 +88,7 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 169,
     "forks": 12,
-    "openIssues": 1869,
+    "openIssues": 1868,
     "watchers": 169,
     "language": "Go",
     "topics": [
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.22.0-beta11",
     "latestReleaseDate": "2026-07-31T18:01:46Z",
     "latestReleaseName": "v1.22.0-beta11",
-    "pushedAt": "2026-07-31T21:26:51Z",
-    "fetchedAt": "2026-08-01T01:23:17.230Z"
+    "pushedAt": "2026-08-01T02:06:39Z",
+    "fetchedAt": "2026-08-02T01:20:56.363Z"
   }
 ]

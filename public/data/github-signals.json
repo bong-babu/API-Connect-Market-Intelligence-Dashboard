@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 43910,
+    "stars": 43918,
     "forks": 5195,
-    "openIssues": 186,
-    "watchers": 43910,
+    "openIssues": 185,
+    "watchers": 43918,
     "language": "Lua",
     "topics": [
       "ai",
@@ -36,8 +36,8 @@
     "latestReleaseTag": "3.9.3",
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
-    "pushedAt": "2026-08-03T07:50:29Z",
-    "fetchedAt": "2026-08-04T01:13:11.182Z"
+    "pushedAt": "2026-08-04T09:27:18Z",
+    "fetchedAt": "2026-08-05T01:14:10.854Z"
   },
   {
     "competitorId": "apigee",
@@ -47,7 +47,7 @@
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3194,
     "forks": 698,
-    "openIssues": 649,
+    "openIssues": 646,
     "watchers": 3194,
     "language": "TypeScript",
     "topics": [
@@ -55,11 +55,11 @@
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "agentidentity-v0.1.0",
-    "latestReleaseDate": "2026-07-29T21:22:30Z",
-    "latestReleaseName": "agentidentity: v0.1.0",
-    "pushedAt": "2026-08-04T01:04:00Z",
-    "fetchedAt": "2026-08-04T01:13:11.739Z"
+    "latestReleaseTag": "firestore-v8.7.1",
+    "latestReleaseDate": "2026-08-04T23:32:46Z",
+    "latestReleaseName": "firestore: v8.7.1",
+    "pushedAt": "2026-08-04T23:56:51Z",
+    "fetchedAt": "2026-08-05T01:14:11.431Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-08-04T01:13:12.284Z"
+    "fetchedAt": "2026-08-05T01:14:12.071Z"
   },
   {
     "competitorId": "solo",
@@ -88,17 +88,17 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 169,
     "forks": 12,
-    "openIssues": 1862,
+    "openIssues": 1867,
     "watchers": 169,
     "language": "Go",
     "topics": [
       "sec"
     ],
     "htmlUrl": "https://github.com/solo-io/gloo",
-    "latestReleaseTag": "v1.22.0-beta12",
-    "latestReleaseDate": "2026-08-02T23:10:28Z",
-    "latestReleaseName": "v1.22.0-beta12",
-    "pushedAt": "2026-08-04T01:02:04Z",
-    "fetchedAt": "2026-08-04T01:13:12.871Z"
+    "latestReleaseTag": "v1.22.1",
+    "latestReleaseDate": "2026-08-04T22:02:23Z",
+    "latestReleaseName": "v1.22.1",
+    "pushedAt": "2026-08-04T22:17:13Z",
+    "fetchedAt": "2026-08-05T01:14:12.707Z"
   }
 ]

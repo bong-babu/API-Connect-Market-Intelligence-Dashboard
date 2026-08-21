@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-20T00:27:19.196Z",
+  "timestamp": "2026-08-21T00:29:36.297Z",
   "results": {
     "rss": {
       "status": "success",
-      "elapsed": 0.6,
+      "elapsed": 0.8,
       "succeeded": 6,
       "total": 6,
       "itemCount": 55
@@ -16,7 +16,7 @@
     },
     "reviews": {
       "status": "success",
-      "elapsed": 9.7,
+      "elapsed": 9.3,
       "succeeded": 0,
       "total": 6
     }

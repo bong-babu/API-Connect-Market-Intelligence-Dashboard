@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44052,
+    "stars": 44055,
     "forks": 5205,
     "openIssues": 191,
-    "watchers": 44052,
+    "watchers": 44055,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
     "pushedAt": "2026-08-16T14:44:43Z",
-    "fetchedAt": "2026-08-28T07:12:16.070Z"
+    "fetchedAt": "2026-08-29T04:24:14.279Z"
   },
   {
     "competitorId": "apigee",
@@ -45,21 +45,21 @@
     "repo": "google-cloud-node",
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
-    "stars": 3195,
+    "stars": 3196,
     "forks": 704,
-    "openIssues": 600,
-    "watchers": 3195,
+    "openIssues": 597,
+    "watchers": 3196,
     "language": "TypeScript",
     "topics": [
       "google-cloud",
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "health-v0.6.1",
-    "latestReleaseDate": "2026-08-26T19:08:26Z",
-    "latestReleaseName": "health: v0.6.1",
-    "pushedAt": "2026-08-28T07:09:35Z",
-    "fetchedAt": "2026-08-28T07:12:16.599Z"
+    "latestReleaseTag": "chronicle-v0.8.0",
+    "latestReleaseDate": "2026-08-28T17:51:44Z",
+    "latestReleaseName": "chronicle: v0.8.0",
+    "pushedAt": "2026-08-28T20:48:30Z",
+    "fetchedAt": "2026-08-29T04:24:14.855Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-08-28T07:12:17.139Z"
+    "fetchedAt": "2026-08-29T04:24:15.416Z"
   },
   {
     "competitorId": "solo",
@@ -99,6 +99,6 @@
     "latestReleaseDate": "2026-08-27T19:01:44Z",
     "latestReleaseName": "v1.22.3",
     "pushedAt": "2026-08-27T19:04:01Z",
-    "fetchedAt": "2026-08-28T07:12:17.719Z"
+    "fetchedAt": "2026-08-29T04:24:16.040Z"
   }
 ]

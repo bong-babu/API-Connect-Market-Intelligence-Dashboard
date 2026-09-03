@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44072,
-    "forks": 5205,
+    "stars": 44076,
+    "forks": 5203,
     "openIssues": 193,
-    "watchers": 44072,
+    "watchers": 44076,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
     "pushedAt": "2026-08-16T14:44:43Z",
-    "fetchedAt": "2026-09-02T01:33:23.541Z"
+    "fetchedAt": "2026-09-03T01:37:39.428Z"
   },
   {
     "competitorId": "apigee",
@@ -46,7 +46,7 @@
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3197,
-    "forks": 705,
+    "forks": 706,
     "openIssues": 595,
     "watchers": 3197,
     "language": "TypeScript",
@@ -55,11 +55,11 @@
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "firestore-v9.0.1",
-    "latestReleaseDate": "2026-09-01T13:48:15Z",
-    "latestReleaseName": "firestore: v9.0.1",
-    "pushedAt": "2026-09-01T23:19:24Z",
-    "fetchedAt": "2026-09-02T01:33:24.118Z"
+    "latestReleaseTag": "routing-v3.1.0",
+    "latestReleaseDate": "2026-09-02T18:51:18Z",
+    "latestReleaseName": "routing: v3.1.0",
+    "pushedAt": "2026-09-02T22:14:24Z",
+    "fetchedAt": "2026-09-03T01:37:40.067Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-09-02T01:33:24.688Z"
+    "fetchedAt": "2026-09-03T01:37:40.639Z"
   },
   {
     "competitorId": "solo",
@@ -88,7 +88,7 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 170,
     "forks": 12,
-    "openIssues": 1873,
+    "openIssues": 1872,
     "watchers": 170,
     "language": "Go",
     "topics": [
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.22.3",
     "latestReleaseDate": "2026-08-27T19:01:44Z",
     "latestReleaseName": "v1.22.3",
-    "pushedAt": "2026-09-01T17:05:03Z",
-    "fetchedAt": "2026-09-02T01:33:25.317Z"
+    "pushedAt": "2026-09-02T14:23:33Z",
+    "fetchedAt": "2026-09-03T01:37:41.319Z"
   }
 ]

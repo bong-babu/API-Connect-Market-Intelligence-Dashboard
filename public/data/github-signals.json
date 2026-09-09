@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44097,
+    "stars": 44105,
     "forks": 5208,
     "openIssues": 194,
-    "watchers": 44097,
+    "watchers": 44105,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
     "pushedAt": "2026-09-07T06:16:21Z",
-    "fetchedAt": "2026-09-08T01:34:12.671Z"
+    "fetchedAt": "2026-09-09T01:42:06.625Z"
   },
   {
     "competitorId": "apigee",
@@ -46,8 +46,8 @@
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3197,
-    "forks": 708,
-    "openIssues": 594,
+    "forks": 709,
+    "openIssues": 597,
     "watchers": 3197,
     "language": "TypeScript",
     "topics": [
@@ -55,11 +55,11 @@
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "loyaltycustomers-v0.1.0",
-    "latestReleaseDate": "2026-09-03T22:16:12Z",
-    "latestReleaseName": "loyaltycustomers: v0.1.0",
-    "pushedAt": "2026-09-07T12:11:14Z",
-    "fetchedAt": "2026-09-08T01:34:13.207Z"
+    "latestReleaseTag": "artifact-registry-v5.1.0",
+    "latestReleaseDate": "2026-09-08T16:34:31Z",
+    "latestReleaseName": "artifact-registry: v5.1.0",
+    "pushedAt": "2026-09-09T01:29:04Z",
+    "fetchedAt": "2026-09-09T01:42:07.242Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-09-08T01:34:13.708Z"
+    "fetchedAt": "2026-09-09T01:42:07.843Z"
   },
   {
     "competitorId": "solo",
@@ -88,7 +88,7 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 170,
     "forks": 12,
-    "openIssues": 1872,
+    "openIssues": 1873,
     "watchers": 170,
     "language": "Go",
     "topics": [
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.22.3",
     "latestReleaseDate": "2026-08-27T19:01:44Z",
     "latestReleaseName": "v1.22.3",
-    "pushedAt": "2026-09-02T14:23:33Z",
-    "fetchedAt": "2026-09-08T01:34:14.267Z"
+    "pushedAt": "2026-09-08T21:00:28Z",
+    "fetchedAt": "2026-09-09T01:42:08.510Z"
   }
 ]

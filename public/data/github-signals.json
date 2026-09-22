@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44162,
+    "stars": 44168,
     "forks": 5210,
     "openIssues": 201,
-    "watchers": 44162,
+    "watchers": 44168,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
     "pushedAt": "2026-09-07T06:16:21Z",
-    "fetchedAt": "2026-09-21T01:50:08.513Z"
+    "fetchedAt": "2026-09-22T01:59:23.660Z"
   },
   {
     "competitorId": "apigee",
@@ -45,10 +45,10 @@
     "repo": "google-cloud-node",
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
-    "stars": 3198,
+    "stars": 3199,
     "forks": 716,
-    "openIssues": 616,
-    "watchers": 3198,
+    "openIssues": 628,
+    "watchers": 3199,
     "language": "TypeScript",
     "topics": [
       "google-cloud",
@@ -58,8 +58,8 @@
     "latestReleaseTag": "spanner-v9.0.0",
     "latestReleaseDate": "2026-09-18T14:14:43Z",
     "latestReleaseName": "spanner: v9.0.0",
-    "pushedAt": "2026-09-19T00:35:02Z",
-    "fetchedAt": "2026-09-21T01:50:09.043Z"
+    "pushedAt": "2026-09-22T00:05:28Z",
+    "fetchedAt": "2026-09-22T01:59:24.202Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-09-21T01:50:09.562Z"
+    "fetchedAt": "2026-09-22T01:59:24.736Z"
   },
   {
     "competitorId": "solo",
@@ -88,7 +88,7 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 169,
     "forks": 12,
-    "openIssues": 1867,
+    "openIssues": 1870,
     "watchers": 169,
     "language": "Go",
     "topics": [
@@ -99,6 +99,6 @@
     "latestReleaseDate": "2026-09-18T19:14:44Z",
     "latestReleaseName": "v1.22.4",
     "pushedAt": "2026-09-19T04:26:05Z",
-    "fetchedAt": "2026-09-21T01:50:10.169Z"
+    "fetchedAt": "2026-09-22T01:59:25.395Z"
   }
 ]

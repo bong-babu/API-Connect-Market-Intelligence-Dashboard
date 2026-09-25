@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44186,
-    "forks": 5215,
-    "openIssues": 208,
-    "watchers": 44186,
+    "stars": 44190,
+    "forks": 5219,
+    "openIssues": 209,
+    "watchers": 44190,
     "language": "Lua",
     "topics": [
       "ai",
@@ -36,8 +36,8 @@
     "latestReleaseTag": "3.9.3",
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
-    "pushedAt": "2026-09-23T13:39:08Z",
-    "fetchedAt": "2026-09-24T01:45:46.245Z"
+    "pushedAt": "2026-09-24T06:01:18Z",
+    "fetchedAt": "2026-09-25T02:02:27.712Z"
   },
   {
     "competitorId": "apigee",
@@ -45,10 +45,10 @@
     "repo": "google-cloud-node",
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
-    "stars": 3199,
-    "forks": 715,
-    "openIssues": 618,
-    "watchers": 3199,
+    "stars": 3201,
+    "forks": 716,
+    "openIssues": 619,
+    "watchers": 3201,
     "language": "TypeScript",
     "topics": [
       "google-cloud",
@@ -58,8 +58,8 @@
     "latestReleaseTag": "google-gax-v6.7.0",
     "latestReleaseDate": "2026-09-23T23:02:26Z",
     "latestReleaseName": "google-gax: v6.7.0",
-    "pushedAt": "2026-09-24T01:06:41Z",
-    "fetchedAt": "2026-09-24T01:45:46.809Z"
+    "pushedAt": "2026-09-24T21:28:53Z",
+    "fetchedAt": "2026-09-25T02:02:28.254Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-09-24T01:45:47.355Z"
+    "fetchedAt": "2026-09-25T02:02:28.801Z"
   },
   {
     "competitorId": "solo",
@@ -99,6 +99,6 @@
     "latestReleaseDate": "2026-09-18T19:14:44Z",
     "latestReleaseName": "v1.22.4",
     "pushedAt": "2026-09-19T04:26:05Z",
-    "fetchedAt": "2026-09-24T01:45:47.935Z"
+    "fetchedAt": "2026-09-25T02:02:29.413Z"
   }
 ]

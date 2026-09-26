@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44190,
-    "forks": 5219,
-    "openIssues": 209,
-    "watchers": 44190,
+    "stars": 44197,
+    "forks": 5218,
+    "openIssues": 210,
+    "watchers": 44197,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
     "pushedAt": "2026-09-24T06:01:18Z",
-    "fetchedAt": "2026-09-25T02:02:27.712Z"
+    "fetchedAt": "2026-09-26T02:08:03.892Z"
   },
   {
     "competitorId": "apigee",
@@ -45,10 +45,10 @@
     "repo": "google-cloud-node",
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
-    "stars": 3201,
-    "forks": 716,
-    "openIssues": 619,
-    "watchers": 3201,
+    "stars": 3200,
+    "forks": 717,
+    "openIssues": 617,
+    "watchers": 3200,
     "language": "TypeScript",
     "topics": [
       "google-cloud",
@@ -58,8 +58,8 @@
     "latestReleaseTag": "google-gax-v6.7.0",
     "latestReleaseDate": "2026-09-23T23:02:26Z",
     "latestReleaseName": "google-gax: v6.7.0",
-    "pushedAt": "2026-09-24T21:28:53Z",
-    "fetchedAt": "2026-09-25T02:02:28.254Z"
+    "pushedAt": "2026-09-26T00:20:32Z",
+    "fetchedAt": "2026-09-26T02:08:04.538Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-09-25T02:02:28.801Z"
+    "fetchedAt": "2026-09-26T02:08:05.135Z"
   },
   {
     "competitorId": "solo",
@@ -88,7 +88,7 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 169,
     "forks": 12,
-    "openIssues": 1870,
+    "openIssues": 1872,
     "watchers": 169,
     "language": "Go",
     "topics": [
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.22.4",
     "latestReleaseDate": "2026-09-18T19:14:44Z",
     "latestReleaseName": "v1.22.4",
-    "pushedAt": "2026-09-19T04:26:05Z",
-    "fetchedAt": "2026-09-25T02:02:29.413Z"
+    "pushedAt": "2026-09-25T23:10:26Z",
+    "fetchedAt": "2026-09-26T02:08:05.841Z"
   }
 ]

@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44201,
+    "stars": 44203,
     "forks": 5219,
-    "openIssues": 209,
-    "watchers": 44201,
+    "openIssues": 210,
+    "watchers": 44203,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
     "pushedAt": "2026-09-24T06:01:18Z",
-    "fetchedAt": "2026-09-27T02:00:09.132Z"
+    "fetchedAt": "2026-09-28T02:05:39.555Z"
   },
   {
     "competitorId": "apigee",
@@ -45,10 +45,10 @@
     "repo": "google-cloud-node",
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
-    "stars": 3200,
+    "stars": 3201,
     "forks": 719,
     "openIssues": 618,
-    "watchers": 3200,
+    "watchers": 3201,
     "language": "TypeScript",
     "topics": [
       "google-cloud",
@@ -59,7 +59,7 @@
     "latestReleaseDate": "2026-09-23T23:02:26Z",
     "latestReleaseName": "google-gax: v6.7.0",
     "pushedAt": "2026-09-26T00:20:32Z",
-    "fetchedAt": "2026-09-27T02:00:09.686Z"
+    "fetchedAt": "2026-09-28T02:05:40.144Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-09-27T02:00:10.276Z"
+    "fetchedAt": "2026-09-28T02:05:40.702Z"
   },
   {
     "competitorId": "solo",
@@ -86,10 +86,10 @@
     "repo": "gloo",
     "fullName": "solo-io/gloo",
     "description": "The Cloud-Native API Gateway and AI Gateway",
-    "stars": 169,
+    "stars": 170,
     "forks": 12,
     "openIssues": 1872,
-    "watchers": 169,
+    "watchers": 170,
     "language": "Go",
     "topics": [
       "sec"
@@ -99,6 +99,6 @@
     "latestReleaseDate": "2026-09-18T19:14:44Z",
     "latestReleaseName": "v1.22.4",
     "pushedAt": "2026-09-25T23:10:26Z",
-    "fetchedAt": "2026-09-27T02:00:10.899Z"
+    "fetchedAt": "2026-09-28T02:05:41.328Z"
   }
 ]

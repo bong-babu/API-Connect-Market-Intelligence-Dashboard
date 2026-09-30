@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44209,
+    "stars": 44222,
     "forks": 5222,
     "openIssues": 219,
-    "watchers": 44209,
+    "watchers": 44222,
     "language": "Lua",
     "topics": [
       "ai",
@@ -36,8 +36,8 @@
     "latestReleaseTag": "3.9.3",
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
-    "pushedAt": "2026-09-28T10:00:12Z",
-    "fetchedAt": "2026-09-29T02:51:55.372Z"
+    "pushedAt": "2026-09-29T04:13:49Z",
+    "fetchedAt": "2026-09-30T02:33:19.809Z"
   },
   {
     "competitorId": "apigee",
@@ -46,7 +46,7 @@
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3201,
-    "forks": 719,
+    "forks": 721,
     "openIssues": 620,
     "watchers": 3201,
     "language": "TypeScript",
@@ -55,11 +55,11 @@
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "grafeas-v7.0.1",
-    "latestReleaseDate": "2026-09-28T17:47:20Z",
-    "latestReleaseName": "grafeas: v7.0.1",
-    "pushedAt": "2026-09-29T02:09:19Z",
-    "fetchedAt": "2026-09-29T02:51:55.904Z"
+    "latestReleaseTag": "health-v0.8.0",
+    "latestReleaseDate": "2026-09-29T19:48:28Z",
+    "latestReleaseName": "health: v0.8.0",
+    "pushedAt": "2026-09-30T00:47:23Z",
+    "fetchedAt": "2026-09-30T02:33:20.378Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-09-29T02:51:56.429Z"
+    "fetchedAt": "2026-09-30T02:33:20.969Z"
   },
   {
     "competitorId": "solo",
@@ -99,6 +99,6 @@
     "latestReleaseDate": "2026-09-18T19:14:44Z",
     "latestReleaseName": "v1.22.4",
     "pushedAt": "2026-09-25T23:10:26Z",
-    "fetchedAt": "2026-09-29T02:51:56.989Z"
+    "fetchedAt": "2026-09-30T02:33:21.613Z"
   }
 ]

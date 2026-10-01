@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44222,
-    "forks": 5222,
-    "openIssues": 219,
-    "watchers": 44222,
+    "stars": 44228,
+    "forks": 5223,
+    "openIssues": 220,
+    "watchers": 44228,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
     "pushedAt": "2026-09-29T04:13:49Z",
-    "fetchedAt": "2026-09-30T02:33:19.809Z"
+    "fetchedAt": "2026-10-01T02:35:44.625Z"
   },
   {
     "competitorId": "apigee",
@@ -47,7 +47,7 @@
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3201,
     "forks": 721,
-    "openIssues": 620,
+    "openIssues": 623,
     "watchers": 3201,
     "language": "TypeScript",
     "topics": [
@@ -58,8 +58,8 @@
     "latestReleaseTag": "health-v0.8.0",
     "latestReleaseDate": "2026-09-29T19:48:28Z",
     "latestReleaseName": "health: v0.8.0",
-    "pushedAt": "2026-09-30T00:47:23Z",
-    "fetchedAt": "2026-09-30T02:33:20.378Z"
+    "pushedAt": "2026-10-01T01:17:15Z",
+    "fetchedAt": "2026-10-01T02:35:45.187Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-09-30T02:33:20.969Z"
+    "fetchedAt": "2026-10-01T02:35:45.826Z"
   },
   {
     "competitorId": "solo",
@@ -99,6 +99,6 @@
     "latestReleaseDate": "2026-09-18T19:14:44Z",
     "latestReleaseName": "v1.22.4",
     "pushedAt": "2026-09-25T23:10:26Z",
-    "fetchedAt": "2026-09-30T02:33:21.613Z"
+    "fetchedAt": "2026-10-01T02:35:46.453Z"
   }
 ]

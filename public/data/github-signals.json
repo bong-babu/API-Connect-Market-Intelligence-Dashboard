@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44240,
-    "forks": 5224,
+    "stars": 44242,
+    "forks": 5225,
     "openIssues": 223,
-    "watchers": 44240,
+    "watchers": 44242,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
     "pushedAt": "2026-10-02T13:43:33Z",
-    "fetchedAt": "2026-10-05T02:31:26.461Z"
+    "fetchedAt": "2026-10-06T03:25:57.046Z"
   },
   {
     "competitorId": "apigee",
@@ -46,8 +46,8 @@
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3202,
-    "forks": 722,
-    "openIssues": 632,
+    "forks": 723,
+    "openIssues": 638,
     "watchers": 3202,
     "language": "TypeScript",
     "topics": [
@@ -55,11 +55,11 @@
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "firestore-v9.3.1",
-    "latestReleaseDate": "2026-10-01T21:41:35Z",
-    "latestReleaseName": "firestore: v9.3.1",
-    "pushedAt": "2026-10-03T05:41:18Z",
-    "fetchedAt": "2026-10-05T02:31:27.019Z"
+    "latestReleaseTag": "google-ads-datamanager-v1.2.0",
+    "latestReleaseDate": "2026-10-05T17:10:16Z",
+    "latestReleaseName": "google-ads-datamanager: v1.2.0",
+    "pushedAt": "2026-10-05T22:41:13Z",
+    "fetchedAt": "2026-10-06T03:25:57.597Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-10-05T02:31:27.583Z"
+    "fetchedAt": "2026-10-06T03:25:58.112Z"
   },
   {
     "competitorId": "solo",
@@ -88,7 +88,7 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 170,
     "forks": 12,
-    "openIssues": 1872,
+    "openIssues": 1875,
     "watchers": 170,
     "language": "Go",
     "topics": [
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.22.4",
     "latestReleaseDate": "2026-09-18T19:14:44Z",
     "latestReleaseName": "v1.22.4",
-    "pushedAt": "2026-10-02T20:47:11Z",
-    "fetchedAt": "2026-10-05T02:31:28.161Z"
+    "pushedAt": "2026-10-05T18:22:52Z",
+    "fetchedAt": "2026-10-06T03:25:58.731Z"
   }
 ]

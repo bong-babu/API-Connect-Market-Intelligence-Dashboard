@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44242,
-    "forks": 5225,
-    "openIssues": 223,
-    "watchers": 44242,
+    "stars": 44246,
+    "forks": 5226,
+    "openIssues": 222,
+    "watchers": 44246,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
     "pushedAt": "2026-10-02T13:43:33Z",
-    "fetchedAt": "2026-10-06T03:25:57.046Z"
+    "fetchedAt": "2026-10-07T02:49:39.251Z"
   },
   {
     "competitorId": "apigee",
@@ -45,21 +45,21 @@
     "repo": "google-cloud-node",
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
-    "stars": 3202,
+    "stars": 3201,
     "forks": 723,
-    "openIssues": 638,
-    "watchers": 3202,
+    "openIssues": 635,
+    "watchers": 3201,
     "language": "TypeScript",
     "topics": [
       "google-cloud",
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "google-ads-datamanager-v1.2.0",
-    "latestReleaseDate": "2026-10-05T17:10:16Z",
-    "latestReleaseName": "google-ads-datamanager: v1.2.0",
-    "pushedAt": "2026-10-05T22:41:13Z",
-    "fetchedAt": "2026-10-06T03:25:57.597Z"
+    "latestReleaseTag": "pubsub-v6.1.1",
+    "latestReleaseDate": "2026-10-06T20:35:55Z",
+    "latestReleaseName": "pubsub: v6.1.1",
+    "pushedAt": "2026-10-06T23:25:57Z",
+    "fetchedAt": "2026-10-07T02:49:39.789Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-10-06T03:25:58.112Z"
+    "fetchedAt": "2026-10-07T02:49:40.341Z"
   },
   {
     "competitorId": "solo",
@@ -88,17 +88,17 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 170,
     "forks": 12,
-    "openIssues": 1875,
+    "openIssues": 1873,
     "watchers": 170,
     "language": "Go",
     "topics": [
       "sec"
     ],
     "htmlUrl": "https://github.com/solo-io/gloo",
-    "latestReleaseTag": "v1.22.4",
-    "latestReleaseDate": "2026-09-18T19:14:44Z",
-    "latestReleaseName": "v1.22.4",
-    "pushedAt": "2026-10-05T18:22:52Z",
-    "fetchedAt": "2026-10-06T03:25:58.731Z"
+    "latestReleaseTag": "v1.22.5",
+    "latestReleaseDate": "2026-10-06T18:34:01Z",
+    "latestReleaseName": "v1.22.5",
+    "pushedAt": "2026-10-06T18:37:14Z",
+    "fetchedAt": "2026-10-07T02:49:40.943Z"
   }
 ]

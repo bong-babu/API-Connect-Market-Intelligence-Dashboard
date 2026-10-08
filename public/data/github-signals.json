@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44246,
+    "stars": 44248,
     "forks": 5226,
     "openIssues": 222,
-    "watchers": 44246,
+    "watchers": 44248,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
     "pushedAt": "2026-10-02T13:43:33Z",
-    "fetchedAt": "2026-10-07T02:49:39.251Z"
+    "fetchedAt": "2026-10-08T03:07:22.090Z"
   },
   {
     "competitorId": "apigee",
@@ -45,21 +45,21 @@
     "repo": "google-cloud-node",
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
-    "stars": 3201,
+    "stars": 3202,
     "forks": 723,
-    "openIssues": 635,
-    "watchers": 3201,
+    "openIssues": 626,
+    "watchers": 3202,
     "language": "TypeScript",
     "topics": [
       "google-cloud",
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "pubsub-v6.1.1",
-    "latestReleaseDate": "2026-10-06T20:35:55Z",
-    "latestReleaseName": "pubsub: v6.1.1",
-    "pushedAt": "2026-10-06T23:25:57Z",
-    "fetchedAt": "2026-10-07T02:49:39.789Z"
+    "latestReleaseTag": "translate-v10.2.0",
+    "latestReleaseDate": "2026-10-07T17:55:24Z",
+    "latestReleaseName": "translate: v10.2.0",
+    "pushedAt": "2026-10-07T23:30:15Z",
+    "fetchedAt": "2026-10-08T03:07:22.636Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-10-07T02:49:40.341Z"
+    "fetchedAt": "2026-10-08T03:07:23.193Z"
   },
   {
     "competitorId": "solo",
@@ -88,7 +88,7 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 170,
     "forks": 12,
-    "openIssues": 1873,
+    "openIssues": 1874,
     "watchers": 170,
     "language": "Go",
     "topics": [
@@ -99,6 +99,6 @@
     "latestReleaseDate": "2026-10-06T18:34:01Z",
     "latestReleaseName": "v1.22.5",
     "pushedAt": "2026-10-06T18:37:14Z",
-    "fetchedAt": "2026-10-07T02:49:40.943Z"
+    "fetchedAt": "2026-10-08T03:07:23.868Z"
   }
 ]

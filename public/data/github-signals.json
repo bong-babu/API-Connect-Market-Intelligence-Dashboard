@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44248,
-    "forks": 5226,
+    "stars": 44254,
+    "forks": 5227,
     "openIssues": 222,
-    "watchers": 44248,
+    "watchers": 44254,
     "language": "Lua",
     "topics": [
       "ai",
@@ -36,8 +36,8 @@
     "latestReleaseTag": "3.9.3",
     "latestReleaseDate": "2026-06-17T06:02:19Z",
     "latestReleaseName": "3.9.3",
-    "pushedAt": "2026-10-02T13:43:33Z",
-    "fetchedAt": "2026-10-08T03:07:22.090Z"
+    "pushedAt": "2026-10-08T14:00:50Z",
+    "fetchedAt": "2026-10-09T03:14:47.358Z"
   },
   {
     "competitorId": "apigee",
@@ -45,21 +45,21 @@
     "repo": "google-cloud-node",
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
-    "stars": 3202,
+    "stars": 3203,
     "forks": 723,
-    "openIssues": 626,
-    "watchers": 3202,
+    "openIssues": 628,
+    "watchers": 3203,
     "language": "TypeScript",
     "topics": [
       "google-cloud",
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "translate-v10.2.0",
-    "latestReleaseDate": "2026-10-07T17:55:24Z",
-    "latestReleaseName": "translate: v10.2.0",
-    "pushedAt": "2026-10-07T23:30:15Z",
-    "fetchedAt": "2026-10-08T03:07:22.636Z"
+    "latestReleaseTag": "storage-v8.4.0",
+    "latestReleaseDate": "2026-10-09T00:08:00Z",
+    "latestReleaseName": "storage: v8.4.0",
+    "pushedAt": "2026-10-09T00:12:29Z",
+    "fetchedAt": "2026-10-09T03:14:47.918Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-10-08T03:07:23.193Z"
+    "fetchedAt": "2026-10-09T03:14:48.535Z"
   },
   {
     "competitorId": "solo",
@@ -99,6 +99,6 @@
     "latestReleaseDate": "2026-10-06T18:34:01Z",
     "latestReleaseName": "v1.22.5",
     "pushedAt": "2026-10-06T18:37:14Z",
-    "fetchedAt": "2026-10-08T03:07:23.868Z"
+    "fetchedAt": "2026-10-09T03:14:49.236Z"
   }
 ]

@@ -1,6 +1,18 @@
 [
   {
-    "id": "rss-mulesoft-1791773173184-0",
+    "id": "rss-kong-1791864186971-0",
+    "competitorId": "kong",
+    "competitorName": "Kong Inc.",
+    "source": "rss",
+    "title": "Products Before Apps",
+    "link": "https://medium.com/@shubhojit.dasgupta/products-before-apps-96aa3ad1ba23?source=rss------kong-5",
+    "publishedAt": "Tue, 13 Oct 2026 03:24:28 GMT",
+    "summary": "Mapping Apigee API Products and credentials into Kong once, before the first partner moves Continue reading on Medium »",
+    "feedTitle": "Kong on Medium",
+    "feedUrl": "https://medium.com/feed/tag/kong"
+  },
+  {
+    "id": "rss-mulesoft-1791864186994-0",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -12,7 +24,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-mulesoft-1791773173184-1",
+    "id": "rss-mulesoft-1791864186994-1",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -24,7 +36,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-mulesoft-1791773173184-2",
+    "id": "rss-mulesoft-1791864186994-2",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -36,7 +48,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-mulesoft-1791773173184-3",
+    "id": "rss-mulesoft-1791864186994-3",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -48,7 +60,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-kong-1791773173174-0",
+    "id": "rss-kong-1791864186971-1",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -60,7 +72,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-kong-1791773173174-1",
+    "id": "rss-kong-1791864186971-2",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -72,7 +84,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-mulesoft-1791773173184-4",
+    "id": "rss-mulesoft-1791864186994-4",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -84,7 +96,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-mulesoft-1791773173184-5",
+    "id": "rss-mulesoft-1791864186994-5",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -96,7 +108,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-apigee-1791773173355-0",
+    "id": "rss-apigee-1791864187321-0",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -108,7 +120,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-kong-1791773173174-2",
+    "id": "rss-kong-1791864186971-3",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -120,7 +132,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-mulesoft-1791773173184-6",
+    "id": "rss-mulesoft-1791864186994-6",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -132,7 +144,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-mulesoft-1791773173184-7",
+    "id": "rss-mulesoft-1791864186994-7",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -144,7 +156,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-mulesoft-1791773173184-8",
+    "id": "rss-mulesoft-1791864186994-8",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -156,7 +168,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-mulesoft-1791773173184-9",
+    "id": "rss-mulesoft-1791864186994-9",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -168,7 +180,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-kong-1791773173174-3",
+    "id": "rss-kong-1791864186971-4",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -180,7 +192,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-kong-1791773173174-4",
+    "id": "rss-kong-1791864186971-5",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -192,7 +204,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-kong-1791773173174-5",
+    "id": "rss-kong-1791864186971-6",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -204,7 +216,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-apigee-1791773173356-1",
+    "id": "rss-apigee-1791864187321-1",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -216,7 +228,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-kong-1791773173174-6",
+    "id": "rss-kong-1791864186971-7",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -228,7 +240,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-boomi-1791773173440-0",
+    "id": "rss-boomi-1791864187130-0",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -240,7 +252,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-apigee-1791773173356-2",
+    "id": "rss-apigee-1791864187321-2",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -252,7 +264,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-boomi-1791773173440-1",
+    "id": "rss-boomi-1791864187130-1",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -264,7 +276,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-kong-1791773173174-7",
+    "id": "rss-kong-1791864186971-8",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -276,7 +288,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-boomi-1791773173440-2",
+    "id": "rss-boomi-1791864187130-2",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -288,7 +300,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-apigee-1791773173356-3",
+    "id": "rss-apigee-1791864187321-3",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -300,7 +312,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-boomi-1791773173440-3",
+    "id": "rss-boomi-1791864187130-3",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -312,7 +324,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-apigee-1791773173356-4",
+    "id": "rss-apigee-1791864187321-4",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -324,7 +336,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1791773173356-5",
+    "id": "rss-apigee-1791864187321-5",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -336,7 +348,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1791773173356-6",
+    "id": "rss-apigee-1791864187321-6",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -348,7 +360,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1791773173356-7",
+    "id": "rss-apigee-1791864187322-7",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -360,7 +372,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1791773173356-8",
+    "id": "rss-apigee-1791864187322-8",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -372,7 +384,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1791773173356-9",
+    "id": "rss-apigee-1791864187322-9",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -384,7 +396,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1791773173356-10",
+    "id": "rss-apigee-1791864187322-10",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -396,7 +408,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1791773173356-11",
+    "id": "rss-apigee-1791864187322-11",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -408,7 +420,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-boomi-1791773173440-4",
+    "id": "rss-boomi-1791864187130-4",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -420,7 +432,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-apigee-1791773173356-12",
+    "id": "rss-apigee-1791864187322-12",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -432,7 +444,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-boomi-1791773173440-5",
+    "id": "rss-boomi-1791864187130-5",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -444,7 +456,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-kong-1791773173174-8",
+    "id": "rss-kong-1791864186971-9",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -456,7 +468,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-apigee-1791773173356-13",
+    "id": "rss-apigee-1791864187322-13",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -468,19 +480,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-kong-1791773173174-9",
-    "competitorId": "kong",
-    "competitorName": "Kong Inc.",
-    "source": "rss",
-    "title": "Kong Api-Gateway ใช้งานได้ไม่ยาก",
-    "link": "https://aofserver.medium.com/kong-api-gateway-%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A2%E0%B8%B2%E0%B8%81-167bcd3a3da6?source=rss------kong-5",
-    "publishedAt": "Mon, 24 Aug 2026 08:44:17 GMT",
-    "summary": "บทความที่แล้วเราได้มีการสอนใช้งาน Nginx เมื่อ service เรามีมากขึ้นความวุ่นวายในการเขียน reverse proxy ก็ยุ่งยากขึ้นตามไปด้วย การ trust… Continue reading on Medium »",
-    "feedTitle": "Kong on Medium",
-    "feedUrl": "https://medium.com/feed/tag/kong"
-  },
-  {
-    "id": "rss-apigee-1791773173356-14",
+    "id": "rss-apigee-1791864187322-14",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -492,7 +492,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-boomi-1791773173440-6",
+    "id": "rss-boomi-1791864187130-6",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -504,7 +504,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-boomi-1791773173440-7",
+    "id": "rss-boomi-1791864187130-7",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -516,7 +516,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-boomi-1791773173440-8",
+    "id": "rss-boomi-1791864187130-8",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -528,7 +528,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-boomi-1791773173440-9",
+    "id": "rss-boomi-1791864187130-9",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -540,7 +540,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-ibm-1791773173366-0",
+    "id": "rss-ibm-1791864187178-0",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -552,7 +552,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1791773173366-1",
+    "id": "rss-ibm-1791864187179-1",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -564,7 +564,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1791773173366-2",
+    "id": "rss-ibm-1791864187179-2",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -576,7 +576,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1791773173366-3",
+    "id": "rss-ibm-1791864187179-3",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -588,7 +588,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1791773173366-4",
+    "id": "rss-ibm-1791864187179-4",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -600,7 +600,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1791773173366-5",
+    "id": "rss-ibm-1791864187179-5",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -612,7 +612,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1791773173366-6",
+    "id": "rss-ibm-1791864187179-6",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -624,7 +624,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1791773173366-7",
+    "id": "rss-ibm-1791864187179-7",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -636,7 +636,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1791773173366-8",
+    "id": "rss-ibm-1791864187179-8",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -648,7 +648,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1791773173366-9",
+    "id": "rss-ibm-1791864187179-9",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",

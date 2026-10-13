@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44262,
-    "forks": 5233,
-    "openIssues": 224,
-    "watchers": 44262,
+    "stars": 44259,
+    "forks": 5232,
+    "openIssues": 219,
+    "watchers": 44259,
     "language": "Lua",
     "topics": [
       "ai",
@@ -33,11 +33,11 @@
       "serverless"
     ],
     "htmlUrl": "https://github.com/Kong/kong",
-    "latestReleaseTag": "3.9.3",
-    "latestReleaseDate": "2026-06-17T06:02:19Z",
-    "latestReleaseName": "3.9.3",
-    "pushedAt": "2026-10-10T08:12:15Z",
-    "fetchedAt": "2026-10-12T02:46:13.821Z"
+    "latestReleaseTag": "3.9.4",
+    "latestReleaseDate": "2026-10-12T07:27:48Z",
+    "latestReleaseName": "3.9.4",
+    "pushedAt": "2026-10-13T04:02:56Z",
+    "fetchedAt": "2026-10-13T04:03:07.700Z"
   },
   {
     "competitorId": "apigee",
@@ -46,8 +46,8 @@
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3205,
-    "forks": 723,
-    "openIssues": 630,
+    "forks": 724,
+    "openIssues": 635,
     "watchers": 3205,
     "language": "TypeScript",
     "topics": [
@@ -55,11 +55,11 @@
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "storage-v8.4.0",
-    "latestReleaseDate": "2026-10-09T00:08:00Z",
-    "latestReleaseName": "storage: v8.4.0",
-    "pushedAt": "2026-10-09T22:03:03Z",
-    "fetchedAt": "2026-10-12T02:46:14.371Z"
+    "latestReleaseTag": "cloud-profiler-v8.2.1",
+    "latestReleaseDate": "2026-10-12T16:14:41Z",
+    "latestReleaseName": "cloud-profiler: v8.2.1",
+    "pushedAt": "2026-10-13T02:41:30Z",
+    "fetchedAt": "2026-10-13T04:03:08.315Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-10-12T02:46:14.918Z"
+    "fetchedAt": "2026-10-13T04:03:08.962Z"
   },
   {
     "competitorId": "solo",
@@ -88,7 +88,7 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 171,
     "forks": 12,
-    "openIssues": 1874,
+    "openIssues": 1881,
     "watchers": 171,
     "language": "Go",
     "topics": [
@@ -99,6 +99,6 @@
     "latestReleaseDate": "2026-10-06T18:34:01Z",
     "latestReleaseName": "v1.22.5",
     "pushedAt": "2026-10-06T18:37:14Z",
-    "fetchedAt": "2026-10-12T02:46:15.513Z"
+    "fetchedAt": "2026-10-13T04:03:09.642Z"
   }
 ]

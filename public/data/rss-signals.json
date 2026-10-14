@@ -1,6 +1,78 @@
 [
   {
-    "id": "rss-kong-1791864186971-0",
+    "id": "rss-mulesoft-1791944223715-0",
+    "competitorId": "mulesoft",
+    "competitorName": "MuleSoft Anypoint",
+    "source": "rss",
+    "title": "GenAI-Assisted MuleSoft to AWS Migration: From Reverse Engineering to Forward Engineering",
+    "link": "https://medium.com/@sindhutalluri286/genai-assisted-mulesoft-to-aws-migration-from-reverse-engineering-to-forward-engineering-d019c76b8179?source=rss------mulesoft-5",
+    "publishedAt": "Tue, 13 Oct 2026 17:05:04 GMT",
+    "summary": "Introduction Continue reading on Medium »",
+    "feedTitle": "Mulesoft on Medium",
+    "feedUrl": "https://medium.com/feed/tag/mulesoft"
+  },
+  {
+    "id": "rss-mulesoft-1791944223715-1",
+    "competitorId": "mulesoft",
+    "competitorName": "MuleSoft Anypoint",
+    "source": "rss",
+    "title": "Our Salesforce MuleSoft Solutions and MuleSoft Consulting Services:",
+    "link": "https://volthread.medium.com/our-salesforce-mulesoft-solutions-and-mulesoft-consulting-services-ca309109db33?source=rss------mulesoft-5",
+    "publishedAt": "Tue, 13 Oct 2026 11:01:09 GMT",
+    "summary": "Different Systems. One Integration Strategy. From APIs to AI Gateway. Continue reading on Medium »",
+    "feedTitle": "Mulesoft on Medium",
+    "feedUrl": "https://medium.com/feed/tag/mulesoft"
+  },
+  {
+    "id": "rss-mulesoft-1791944223716-2",
+    "competitorId": "mulesoft",
+    "competitorName": "MuleSoft Anypoint",
+    "source": "rss",
+    "title": "SalesForce MuleSoft Çözümlerimiz ve MuleSoft Danışmanlık Hizmetlerimiz:",
+    "link": "https://volthread.medium.com/salesforce-mulesoft-%C3%A7%C3%B6z%C3%BCmlerimiz-ve-mulesoft-dan%C4%B1%C5%9Fmanl%C4%B1k-hizmetlerimiz-44f2c6c1cad6?source=rss------mulesoft-5",
+    "publishedAt": "Tue, 13 Oct 2026 11:00:22 GMT",
+    "summary": "Farklı Sistemler. Tek Entegrasyon Stratejisi. API’den AI Gateway’e. Continue reading on Medium »",
+    "feedTitle": "Mulesoft on Medium",
+    "feedUrl": "https://medium.com/feed/tag/mulesoft"
+  },
+  {
+    "id": "rss-kong-1791944223698-0",
+    "competitorId": "kong",
+    "competitorName": "Kong Inc.",
+    "source": "rss",
+    "title": "Token Exchange in an Apigee Exit",
+    "link": "https://medium.com/@shubhojit.dasgupta/token-exchange-in-an-apigee-exit-20083b45d476?source=rss------kong-5",
+    "publishedAt": "Tue, 13 Oct 2026 10:06:59 GMT",
+    "summary": "How partners keep their own identity provider when Apigee’s OAuth goes, why Kong should verify their tokens before exchanging them, and… Continue reading on Medium »",
+    "feedTitle": "Kong on Medium",
+    "feedUrl": "https://medium.com/feed/tag/kong"
+  },
+  {
+    "id": "rss-mulesoft-1791944223716-3",
+    "competitorId": "mulesoft",
+    "competitorName": "MuleSoft Anypoint",
+    "source": "rss",
+    "title": "MuleSoft Developer Training: See How MuleSoft Developers Turn Business Needs into Connected…",
+    "link": "https://medium.com/@Nikhilkumar98/mulesoft-developer-training-see-how-mulesoft-developers-turn-business-needs-into-connected-45c2739057a0?source=rss------mulesoft-5",
+    "publishedAt": "Tue, 13 Oct 2026 09:49:00 GMT",
+    "summary": "Business Needs & Integration Knowledge Continue reading on Medium »",
+    "feedTitle": "Mulesoft on Medium",
+    "feedUrl": "https://medium.com/feed/tag/mulesoft"
+  },
+  {
+    "id": "rss-kong-1791944223699-1",
+    "competitorId": "kong",
+    "competitorName": "Kong Inc.",
+    "source": "rss",
+    "title": "Two Credential Bridges: Verifying Against Apigee or Holding Credentials in Kong",
+    "link": "https://medium.com/@shubhojit.dasgupta/two-credential-bridges-verifying-against-apigee-or-holding-credentials-in-kong-e7018729876c?source=rss------kong-5",
+    "publishedAt": "Tue, 13 Oct 2026 05:46:36 GMT",
+    "summary": "Moving partners onto Kong before their Apigee credentials change: verify the key at Apigee, or hold it in Kong Continue reading on Medium »",
+    "feedTitle": "Kong on Medium",
+    "feedUrl": "https://medium.com/feed/tag/kong"
+  },
+  {
+    "id": "rss-kong-1791944223699-2",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -12,7 +84,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-mulesoft-1791864186994-0",
+    "id": "rss-mulesoft-1791944223716-4",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -24,7 +96,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-mulesoft-1791864186994-1",
+    "id": "rss-mulesoft-1791944223716-5",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -36,7 +108,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-mulesoft-1791864186994-2",
+    "id": "rss-mulesoft-1791944223716-6",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -48,7 +120,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-mulesoft-1791864186994-3",
+    "id": "rss-mulesoft-1791944223716-7",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -60,7 +132,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-kong-1791864186971-1",
+    "id": "rss-kong-1791944223699-3",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -72,7 +144,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-kong-1791864186971-2",
+    "id": "rss-kong-1791944223699-4",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -84,7 +156,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-mulesoft-1791864186994-4",
+    "id": "rss-mulesoft-1791944223716-8",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -96,7 +168,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-mulesoft-1791864186994-5",
+    "id": "rss-mulesoft-1791944223716-9",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -108,7 +180,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-apigee-1791864187321-0",
+    "id": "rss-apigee-1791944224086-0",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -120,7 +192,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-kong-1791864186971-3",
+    "id": "rss-kong-1791944223699-5",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -132,55 +204,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-mulesoft-1791864186994-6",
-    "competitorId": "mulesoft",
-    "competitorName": "MuleSoft Anypoint",
-    "source": "rss",
-    "title": "MuleSoft Training India: Get Your Career on Track with MuleSoft Learning for India’s Integration…",
-    "link": "https://medium.com/@anusandanam675/mulesoft-training-india-get-your-career-on-track-with-mulesoft-learning-for-indias-integration-29db62d36edc?source=rss------mulesoft-5",
-    "publishedAt": "Tue, 06 Oct 2026 09:28:01 GMT",
-    "summary": "Acknowledge the growing demand for integration skills Continue reading on Medium »",
-    "feedTitle": "Mulesoft on Medium",
-    "feedUrl": "https://medium.com/feed/tag/mulesoft"
-  },
-  {
-    "id": "rss-mulesoft-1791864186994-7",
-    "competitorId": "mulesoft",
-    "competitorName": "MuleSoft Anypoint",
-    "source": "rss",
-    "title": "I Treated MuleSoft Agent Fabric v2 As an Agent Framework. Here’s What I Learned…(2m 38s to 29s)",
-    "link": "https://medium.com/@sravannerella007/i-treated-mulesoft-agent-fabric-v2-as-an-agent-framework-heres-what-i-learned-2m-38s-to-29s-6494de582bbc?source=rss------mulesoft-5",
-    "publishedAt": "Tue, 06 Oct 2026 01:11:29 GMT",
-    "summary": "What execution bottlenecks, optimization experiments, and a LangGraph rebuild taught me about where MuleSoft Agent Fabric really fits Continue reading on Medium »",
-    "feedTitle": "Mulesoft on Medium",
-    "feedUrl": "https://medium.com/feed/tag/mulesoft"
-  },
-  {
-    "id": "rss-mulesoft-1791864186994-8",
-    "competitorId": "mulesoft",
-    "competitorName": "MuleSoft Anypoint",
-    "source": "rss",
-    "title": "MuleSoft with AI Training in Hyderabad — Learn Integration and AI Skills.",
-    "link": "https://medium.com/@jayasubhash4/mulesoft-with-ai-training-in-hyderabad-learn-integration-and-ai-skills-53c36ec377dc?source=rss------mulesoft-5",
-    "publishedAt": "Mon, 05 Oct 2026 13:17:02 GMT",
-    "summary": "Technology is changing quickly, and businesses now need applications that can communicate with each other. At the same time, Artificial… Continue reading on Medium »",
-    "feedTitle": "Mulesoft on Medium",
-    "feedUrl": "https://medium.com/feed/tag/mulesoft"
-  },
-  {
-    "id": "rss-mulesoft-1791864186994-9",
-    "competitorId": "mulesoft",
-    "competitorName": "MuleSoft Anypoint",
-    "source": "rss",
-    "title": "Understanding MCP Elicitation with MuleSoft: Building a Human-in-the-Loop Loan Approval MCP Server",
-    "link": "https://medium.com/another-integration-blog/understanding-mcp-elicitation-with-mulesoft-building-a-human-in-the-loop-loan-approval-mcp-server-e7f8913ce953?source=rss------mulesoft-5",
-    "publishedAt": "Mon, 05 Oct 2026 09:29:45 GMT",
-    "summary": "Introduction Continue reading on Another Integration Blog »",
-    "feedTitle": "Mulesoft on Medium",
-    "feedUrl": "https://medium.com/feed/tag/mulesoft"
-  },
-  {
-    "id": "rss-kong-1791864186971-4",
+    "id": "rss-kong-1791944223699-6",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -192,7 +216,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-kong-1791864186971-5",
+    "id": "rss-kong-1791944223699-7",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -204,7 +228,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-kong-1791864186971-6",
+    "id": "rss-kong-1791944223699-8",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -216,7 +240,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-apigee-1791864187321-1",
+    "id": "rss-apigee-1791944224086-1",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -228,7 +252,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-kong-1791864186971-7",
+    "id": "rss-kong-1791944223699-9",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -240,7 +264,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-boomi-1791864187130-0",
+    "id": "rss-boomi-1791944223936-0",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -252,7 +276,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-apigee-1791864187321-2",
+    "id": "rss-apigee-1791944224086-2",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -264,7 +288,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-boomi-1791864187130-1",
+    "id": "rss-boomi-1791944223936-1",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -276,19 +300,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-kong-1791864186971-8",
-    "competitorId": "kong",
-    "competitorName": "Kong Inc.",
-    "source": "rss",
-    "title": "Why Every Dog Needs a KONG",
-    "link": "https://medium.com/@shelleywenger/why-every-dog-needs-a-kong-5f08020f6ca2?source=rss------kong-5",
-    "publishedAt": "Fri, 25 Sep 2026 00:31:02 GMT",
-    "summary": "Vet Tech Review Continue reading on Medium »",
-    "feedTitle": "Kong on Medium",
-    "feedUrl": "https://medium.com/feed/tag/kong"
-  },
-  {
-    "id": "rss-boomi-1791864187130-2",
+    "id": "rss-boomi-1791944223936-2",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -300,7 +312,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-apigee-1791864187321-3",
+    "id": "rss-apigee-1791944224086-3",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -312,7 +324,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-boomi-1791864187130-3",
+    "id": "rss-boomi-1791944223936-3",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -324,7 +336,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-apigee-1791864187321-4",
+    "id": "rss-apigee-1791944224086-4",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -336,7 +348,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1791864187321-5",
+    "id": "rss-apigee-1791944224086-5",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -348,7 +360,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1791864187321-6",
+    "id": "rss-apigee-1791944224086-6",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -360,7 +372,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1791864187322-7",
+    "id": "rss-apigee-1791944224086-7",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -372,7 +384,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1791864187322-8",
+    "id": "rss-apigee-1791944224086-8",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -384,7 +396,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1791864187322-9",
+    "id": "rss-apigee-1791944224086-9",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -396,7 +408,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1791864187322-10",
+    "id": "rss-apigee-1791944224086-10",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -408,7 +420,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1791864187322-11",
+    "id": "rss-apigee-1791944224086-11",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -420,7 +432,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-boomi-1791864187130-4",
+    "id": "rss-boomi-1791944223936-4",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -432,7 +444,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-apigee-1791864187322-12",
+    "id": "rss-apigee-1791944224086-12",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -444,7 +456,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-boomi-1791864187130-5",
+    "id": "rss-boomi-1791944223936-5",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -456,19 +468,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-kong-1791864186971-9",
-    "competitorId": "kong",
-    "competitorName": "Kong Inc.",
-    "source": "rss",
-    "title": "Kong API Gateway: ร่างอัปเกรดของ Nginx เข้าใจได้ใน 3 นาที",
-    "link": "https://grassrootengineer.medium.com/kong-api-gateway-%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81-nginx-%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%87-%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%83%E0%B8%99-3-%E0%B8%99%E0%B8%B2%E0%B8%97%E0%B8%B5-a248dc0a3b19?source=rss------kong-5",
-    "publishedAt": "Wed, 26 Aug 2026 18:44:31 GMT",
-    "summary": "Kong คืออะไร? สร้างมาจากไหน? Continue reading on Medium »",
-    "feedTitle": "Kong on Medium",
-    "feedUrl": "https://medium.com/feed/tag/kong"
-  },
-  {
-    "id": "rss-apigee-1791864187322-13",
+    "id": "rss-apigee-1791944224086-13",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -480,7 +480,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1791864187322-14",
+    "id": "rss-apigee-1791944224086-14",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -492,7 +492,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-boomi-1791864187130-6",
+    "id": "rss-boomi-1791944223936-6",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -504,7 +504,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-boomi-1791864187130-7",
+    "id": "rss-boomi-1791944223936-7",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -516,7 +516,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-boomi-1791864187130-8",
+    "id": "rss-boomi-1791944223936-8",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -528,7 +528,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-boomi-1791864187130-9",
+    "id": "rss-boomi-1791944223936-9",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -540,7 +540,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-ibm-1791864187178-0",
+    "id": "rss-ibm-1791944223824-0",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -552,7 +552,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1791864187179-1",
+    "id": "rss-ibm-1791944223824-1",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -564,7 +564,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1791864187179-2",
+    "id": "rss-ibm-1791944223824-2",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -576,7 +576,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1791864187179-3",
+    "id": "rss-ibm-1791944223824-3",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -588,7 +588,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1791864187179-4",
+    "id": "rss-ibm-1791944223824-4",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -600,7 +600,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1791864187179-5",
+    "id": "rss-ibm-1791944223824-5",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -612,7 +612,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1791864187179-6",
+    "id": "rss-ibm-1791944223824-6",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -624,7 +624,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1791864187179-7",
+    "id": "rss-ibm-1791944223824-7",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -636,7 +636,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1791864187179-8",
+    "id": "rss-ibm-1791944223824-8",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -648,7 +648,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1791864187179-9",
+    "id": "rss-ibm-1791944223824-9",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",

@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44264,
+    "stars": 44271,
     "forks": 5236,
     "openIssues": 221,
-    "watchers": 44264,
+    "watchers": 44271,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-10-12T07:27:48Z",
     "latestReleaseName": "3.9.4",
     "pushedAt": "2026-10-14T02:34:58Z",
-    "fetchedAt": "2026-10-15T01:58:20.731Z"
+    "fetchedAt": "2026-10-16T01:48:31.310Z"
   },
   {
     "competitorId": "apigee",
@@ -46,8 +46,8 @@
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3207,
-    "forks": 723,
-    "openIssues": 633,
+    "forks": 724,
+    "openIssues": 637,
     "watchers": 3207,
     "language": "TypeScript",
     "topics": [
@@ -58,8 +58,8 @@
     "latestReleaseTag": "bigquery-storage-v6.3.0",
     "latestReleaseDate": "2026-10-14T18:02:37Z",
     "latestReleaseName": "bigquery-storage: v6.3.0",
-    "pushedAt": "2026-10-15T01:30:51Z",
-    "fetchedAt": "2026-10-15T01:58:22.142Z"
+    "pushedAt": "2026-10-16T01:12:44Z",
+    "fetchedAt": "2026-10-16T01:48:31.859Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-10-15T01:58:23.849Z"
+    "fetchedAt": "2026-10-16T01:48:32.464Z"
   },
   {
     "competitorId": "solo",
@@ -88,17 +88,17 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 171,
     "forks": 12,
-    "openIssues": 1882,
+    "openIssues": 1885,
     "watchers": 171,
     "language": "Go",
     "topics": [
       "sec"
     ],
     "htmlUrl": "https://github.com/solo-io/gloo",
-    "latestReleaseTag": "v1.22.5",
-    "latestReleaseDate": "2026-10-06T18:34:01Z",
-    "latestReleaseName": "v1.22.5",
-    "pushedAt": "2026-10-14T20:07:51Z",
-    "fetchedAt": "2026-10-15T01:58:24.483Z"
+    "latestReleaseTag": "v1.22.6",
+    "latestReleaseDate": "2026-10-15T19:38:13Z",
+    "latestReleaseName": "v1.22.6",
+    "pushedAt": "2026-10-15T22:00:48Z",
+    "fetchedAt": "2026-10-16T01:48:33.103Z"
   }
 ]

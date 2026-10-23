@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44288,
-    "forks": 5234,
+    "stars": 44295,
+    "forks": 5235,
     "openIssues": 220,
-    "watchers": 44288,
+    "watchers": 44295,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-10-12T07:27:48Z",
     "latestReleaseName": "3.9.4",
     "pushedAt": "2026-10-19T02:45:09Z",
-    "fetchedAt": "2026-10-22T02:02:38.304Z"
+    "fetchedAt": "2026-10-23T02:06:28.968Z"
   },
   {
     "competitorId": "apigee",
@@ -45,21 +45,21 @@
     "repo": "google-cloud-node",
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
-    "stars": 3210,
+    "stars": 3209,
     "forks": 724,
-    "openIssues": 646,
-    "watchers": 3210,
+    "openIssues": 643,
+    "watchers": 3209,
     "language": "TypeScript",
     "topics": [
       "google-cloud",
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "cloudbuild-v6.4.0",
-    "latestReleaseDate": "2026-10-21T16:39:24Z",
-    "latestReleaseName": "cloudbuild: v6.4.0",
-    "pushedAt": "2026-10-22T00:25:02Z",
-    "fetchedAt": "2026-10-22T02:02:38.978Z"
+    "latestReleaseTag": "firestore-v9.4.0",
+    "latestReleaseDate": "2026-10-22T22:45:54Z",
+    "latestReleaseName": "firestore: v9.4.0",
+    "pushedAt": "2026-10-23T00:31:56Z",
+    "fetchedAt": "2026-10-23T02:06:29.532Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-10-22T02:02:39.560Z"
+    "fetchedAt": "2026-10-23T02:06:30.111Z"
   },
   {
     "competitorId": "solo",
@@ -99,6 +99,6 @@
     "latestReleaseDate": "2026-10-21T20:25:04Z",
     "latestReleaseName": "v1.22.7",
     "pushedAt": "2026-10-21T20:25:04Z",
-    "fetchedAt": "2026-10-22T02:02:40.218Z"
+    "fetchedAt": "2026-10-23T02:06:30.769Z"
   }
 ]

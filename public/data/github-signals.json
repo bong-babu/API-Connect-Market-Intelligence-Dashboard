@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44295,
-    "forks": 5235,
-    "openIssues": 220,
-    "watchers": 44295,
+    "stars": 44296,
+    "forks": 5238,
+    "openIssues": 221,
+    "watchers": 44296,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-10-12T07:27:48Z",
     "latestReleaseName": "3.9.4",
     "pushedAt": "2026-10-19T02:45:09Z",
-    "fetchedAt": "2026-10-23T02:06:28.968Z"
+    "fetchedAt": "2026-10-24T02:06:00.807Z"
   },
   {
     "competitorId": "apigee",
@@ -46,8 +46,8 @@
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3209,
-    "forks": 724,
-    "openIssues": 643,
+    "forks": 725,
+    "openIssues": 641,
     "watchers": 3209,
     "language": "TypeScript",
     "topics": [
@@ -55,11 +55,11 @@
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "firestore-v9.4.0",
-    "latestReleaseDate": "2026-10-22T22:45:54Z",
-    "latestReleaseName": "firestore: v9.4.0",
-    "pushedAt": "2026-10-23T00:31:56Z",
-    "fetchedAt": "2026-10-23T02:06:29.532Z"
+    "latestReleaseTag": "storage-control-v0.13.1",
+    "latestReleaseDate": "2026-10-23T17:14:35Z",
+    "latestReleaseName": "storage-control: v0.13.1",
+    "pushedAt": "2026-10-23T23:56:01Z",
+    "fetchedAt": "2026-10-24T02:06:01.396Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-10-23T02:06:30.111Z"
+    "fetchedAt": "2026-10-24T02:06:01.976Z"
   },
   {
     "competitorId": "solo",
@@ -99,6 +99,6 @@
     "latestReleaseDate": "2026-10-21T20:25:04Z",
     "latestReleaseName": "v1.22.7",
     "pushedAt": "2026-10-21T20:25:04Z",
-    "fetchedAt": "2026-10-23T02:06:30.769Z"
+    "fetchedAt": "2026-10-24T02:06:02.660Z"
   }
 ]

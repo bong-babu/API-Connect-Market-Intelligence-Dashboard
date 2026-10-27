@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44301,
-    "forks": 5238,
-    "openIssues": 221,
-    "watchers": 44301,
+    "stars": 44307,
+    "forks": 5237,
+    "openIssues": 222,
+    "watchers": 44307,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-10-12T07:27:48Z",
     "latestReleaseName": "3.9.4",
     "pushedAt": "2026-10-19T02:45:09Z",
-    "fetchedAt": "2026-10-26T01:54:20.085Z"
+    "fetchedAt": "2026-10-27T02:32:24.630Z"
   },
   {
     "competitorId": "apigee",
@@ -47,7 +47,7 @@
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3209,
     "forks": 725,
-    "openIssues": 643,
+    "openIssues": 649,
     "watchers": 3209,
     "language": "TypeScript",
     "topics": [
@@ -58,8 +58,8 @@
     "latestReleaseTag": "storage-control-v0.13.1",
     "latestReleaseDate": "2026-10-23T17:14:35Z",
     "latestReleaseName": "storage-control: v0.13.1",
-    "pushedAt": "2026-10-25T21:19:01Z",
-    "fetchedAt": "2026-10-26T01:54:20.656Z"
+    "pushedAt": "2026-10-27T02:24:00Z",
+    "fetchedAt": "2026-10-27T02:32:25.215Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-10-26T01:54:21.243Z"
+    "fetchedAt": "2026-10-27T02:32:25.752Z"
   },
   {
     "competitorId": "solo",
@@ -88,7 +88,7 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 171,
     "forks": 12,
-    "openIssues": 1888,
+    "openIssues": 1862,
     "watchers": 171,
     "language": "Go",
     "topics": [
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.22.7",
     "latestReleaseDate": "2026-10-21T20:25:04Z",
     "latestReleaseName": "v1.22.7",
-    "pushedAt": "2026-10-21T20:25:04Z",
-    "fetchedAt": "2026-10-26T01:54:21.869Z"
+    "pushedAt": "2026-10-26T16:36:28Z",
+    "fetchedAt": "2026-10-27T02:32:26.393Z"
   }
 ]

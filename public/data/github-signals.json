@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44309,
+    "stars": 44318,
     "forks": 5237,
     "openIssues": 222,
-    "watchers": 44309,
+    "watchers": 44318,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-10-12T07:27:48Z",
     "latestReleaseName": "3.9.4",
     "pushedAt": "2026-10-19T02:45:09Z",
-    "fetchedAt": "2026-10-28T02:41:11.650Z"
+    "fetchedAt": "2026-10-29T03:00:11.462Z"
   },
   {
     "competitorId": "apigee",
@@ -46,8 +46,8 @@
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3207,
-    "forks": 725,
-    "openIssues": 662,
+    "forks": 724,
+    "openIssues": 658,
     "watchers": 3207,
     "language": "TypeScript",
     "topics": [
@@ -55,11 +55,11 @@
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "storage-control-v0.13.1",
-    "latestReleaseDate": "2026-10-23T17:14:35Z",
-    "latestReleaseName": "storage-control: v0.13.1",
-    "pushedAt": "2026-10-28T00:38:32Z",
-    "fetchedAt": "2026-10-28T02:41:12.260Z"
+    "latestReleaseTag": "observability-v0.1.0",
+    "latestReleaseDate": "2026-10-28T21:08:27Z",
+    "latestReleaseName": "observability: v0.1.0",
+    "pushedAt": "2026-10-29T00:34:12Z",
+    "fetchedAt": "2026-10-29T03:00:12.026Z"
   },
   {
     "competitorId": "mulesoft",
@@ -68,7 +68,7 @@
     "fullName": "mulesoft/mule",
     "description": "Mule Community Edition",
     "stars": 500,
-    "forks": 690,
+    "forks": 689,
     "openIssues": 15,
     "watchers": 500,
     "language": "Java",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-10-28T02:41:12.809Z"
+    "fetchedAt": "2026-10-29T03:00:12.562Z"
   },
   {
     "competitorId": "solo",
@@ -88,7 +88,7 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 171,
     "forks": 12,
-    "openIssues": 1862,
+    "openIssues": 1867,
     "watchers": 171,
     "language": "Go",
     "topics": [
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.22.7",
     "latestReleaseDate": "2026-10-21T20:25:04Z",
     "latestReleaseName": "v1.22.7",
-    "pushedAt": "2026-10-26T16:36:28Z",
-    "fetchedAt": "2026-10-28T02:41:13.476Z"
+    "pushedAt": "2026-10-28T20:48:00Z",
+    "fetchedAt": "2026-10-29T03:00:13.158Z"
   }
 ]

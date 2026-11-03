@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44344,
-    "forks": 5237,
-    "openIssues": 225,
-    "watchers": 44344,
+    "stars": 44347,
+    "forks": 5238,
+    "openIssues": 227,
+    "watchers": 44347,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-10-12T07:27:48Z",
     "latestReleaseName": "3.9.4",
     "pushedAt": "2026-10-19T02:45:09Z",
-    "fetchedAt": "2026-11-02T02:53:36.146Z"
+    "fetchedAt": "2026-11-03T04:10:13.471Z"
   },
   {
     "competitorId": "apigee",
@@ -45,21 +45,21 @@
     "repo": "google-cloud-node",
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
-    "stars": 3207,
-    "forks": 726,
-    "openIssues": 654,
-    "watchers": 3207,
+    "stars": 3208,
+    "forks": 727,
+    "openIssues": 656,
+    "watchers": 3208,
     "language": "TypeScript",
     "topics": [
       "google-cloud",
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "observability-v0.1.0",
-    "latestReleaseDate": "2026-10-28T21:08:27Z",
-    "latestReleaseName": "observability: v0.1.0",
-    "pushedAt": "2026-10-30T23:38:44Z",
-    "fetchedAt": "2026-11-02T02:53:36.682Z"
+    "latestReleaseTag": "bigquery-v9.6.0",
+    "latestReleaseDate": "2026-11-02T23:37:44Z",
+    "latestReleaseName": "bigquery: v9.6.0",
+    "pushedAt": "2026-11-03T02:54:59Z",
+    "fetchedAt": "2026-11-03T04:10:14.069Z"
   },
   {
     "competitorId": "mulesoft",
@@ -68,7 +68,7 @@
     "fullName": "mulesoft/mule",
     "description": "Mule Community Edition",
     "stars": 500,
-    "forks": 690,
+    "forks": 689,
     "openIssues": 15,
     "watchers": 500,
     "language": "Java",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-11-02T02:53:37.227Z"
+    "fetchedAt": "2026-11-03T04:10:14.658Z"
   },
   {
     "competitorId": "solo",
@@ -86,10 +86,10 @@
     "repo": "gloo",
     "fullName": "solo-io/gloo",
     "description": "The Cloud-Native API Gateway and AI Gateway",
-    "stars": 171,
+    "stars": 172,
     "forks": 12,
-    "openIssues": 1867,
-    "watchers": 171,
+    "openIssues": 1872,
+    "watchers": 172,
     "language": "Go",
     "topics": [
       "sec"
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.22.7",
     "latestReleaseDate": "2026-10-21T20:25:04Z",
     "latestReleaseName": "v1.22.7",
-    "pushedAt": "2026-10-30T16:10:08Z",
-    "fetchedAt": "2026-11-02T02:53:37.785Z"
+    "pushedAt": "2026-11-03T02:15:25Z",
+    "fetchedAt": "2026-11-03T04:10:15.264Z"
   }
 ]

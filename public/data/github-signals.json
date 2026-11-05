@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44347,
+    "stars": 44357,
     "forks": 5240,
     "openIssues": 228,
-    "watchers": 44347,
+    "watchers": 44357,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-10-12T07:27:48Z",
     "latestReleaseName": "3.9.4",
     "pushedAt": "2026-10-19T02:45:09Z",
-    "fetchedAt": "2026-11-04T03:29:11.909Z"
+    "fetchedAt": "2026-11-05T03:51:29.061Z"
   },
   {
     "competitorId": "apigee",
@@ -46,8 +46,8 @@
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3210,
-    "forks": 728,
-    "openIssues": 647,
+    "forks": 729,
+    "openIssues": 648,
     "watchers": 3210,
     "language": "TypeScript",
     "topics": [
@@ -58,8 +58,8 @@
     "latestReleaseTag": "storage-v9.0.0",
     "latestReleaseDate": "2026-11-03T16:50:47Z",
     "latestReleaseName": "storage: v9.0.0",
-    "pushedAt": "2026-11-04T00:00:24Z",
-    "fetchedAt": "2026-11-04T03:29:12.474Z"
+    "pushedAt": "2026-11-04T23:27:23Z",
+    "fetchedAt": "2026-11-05T03:51:29.617Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-11-04T03:29:13.081Z"
+    "fetchedAt": "2026-11-05T03:51:30.167Z"
   },
   {
     "competitorId": "solo",
@@ -88,7 +88,7 @@
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 172,
     "forks": 12,
-    "openIssues": 1872,
+    "openIssues": 1873,
     "watchers": 172,
     "language": "Go",
     "topics": [
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.20.29",
     "latestReleaseDate": "2026-11-03T19:20:42Z",
     "latestReleaseName": "v1.20.29",
-    "pushedAt": "2026-11-04T02:34:15Z",
-    "fetchedAt": "2026-11-04T03:29:13.736Z"
+    "pushedAt": "2026-11-04T22:59:07Z",
+    "fetchedAt": "2026-11-05T03:51:30.772Z"
   }
 ]

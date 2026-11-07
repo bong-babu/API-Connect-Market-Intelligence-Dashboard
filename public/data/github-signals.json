@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44362,
+    "stars": 44366,
     "forks": 5238,
     "openIssues": 228,
-    "watchers": 44362,
+    "watchers": 44366,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-10-12T07:27:48Z",
     "latestReleaseName": "3.9.4",
     "pushedAt": "2026-10-19T02:45:09Z",
-    "fetchedAt": "2026-11-06T03:48:35.215Z"
+    "fetchedAt": "2026-11-07T03:21:18.684Z"
   },
   {
     "competitorId": "apigee",
@@ -58,8 +58,8 @@
     "latestReleaseTag": "storage-v9.0.0",
     "latestReleaseDate": "2026-11-03T16:50:47Z",
     "latestReleaseName": "storage: v9.0.0",
-    "pushedAt": "2026-11-05T17:43:02Z",
-    "fetchedAt": "2026-11-06T03:48:35.763Z"
+    "pushedAt": "2026-11-06T21:21:01Z",
+    "fetchedAt": "2026-11-07T03:21:19.257Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-11-06T03:48:36.372Z"
+    "fetchedAt": "2026-11-07T03:21:19.867Z"
   },
   {
     "competitorId": "solo",
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.20.29",
     "latestReleaseDate": "2026-11-03T19:20:42Z",
     "latestReleaseName": "v1.20.29",
-    "pushedAt": "2026-11-05T20:43:19Z",
-    "fetchedAt": "2026-11-06T03:48:36.979Z"
+    "pushedAt": "2026-11-06T23:06:42Z",
+    "fetchedAt": "2026-11-07T03:21:20.489Z"
   }
 ]

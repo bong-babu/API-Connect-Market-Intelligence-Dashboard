@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-10-12T07:27:48Z",
     "latestReleaseName": "3.9.4",
     "pushedAt": "2026-10-19T02:45:09Z",
-    "fetchedAt": "2026-11-09T03:09:57.479Z"
+    "fetchedAt": "2026-11-10T04:52:24.607Z"
   },
   {
     "competitorId": "apigee",
@@ -47,7 +47,7 @@
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3210,
     "forks": 732,
-    "openIssues": 654,
+    "openIssues": 655,
     "watchers": 3210,
     "language": "TypeScript",
     "topics": [
@@ -55,11 +55,11 @@
       "nodejs"
     ],
     "htmlUrl": "https://github.com/googleapis/google-cloud-node",
-    "latestReleaseTag": "storage-v9.0.0",
-    "latestReleaseDate": "2026-11-03T16:50:47Z",
-    "latestReleaseName": "storage: v9.0.0",
-    "pushedAt": "2026-11-09T02:18:42Z",
-    "fetchedAt": "2026-11-09T03:09:58.008Z"
+    "latestReleaseTag": "solar-v0.9.0",
+    "latestReleaseDate": "2026-11-09T16:29:20Z",
+    "latestReleaseName": "solar: v0.9.0",
+    "pushedAt": "2026-11-10T04:24:21Z",
+    "fetchedAt": "2026-11-10T04:52:25.258Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-11-09T03:09:58.566Z"
+    "fetchedAt": "2026-11-10T04:52:25.880Z"
   },
   {
     "competitorId": "solo",
@@ -87,8 +87,8 @@
     "fullName": "solo-io/gloo",
     "description": "The Cloud-Native API Gateway and AI Gateway",
     "stars": 173,
-    "forks": 12,
-    "openIssues": 1870,
+    "forks": 11,
+    "openIssues": 1868,
     "watchers": 173,
     "language": "Go",
     "topics": [
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.20.30",
     "latestReleaseDate": "2026-11-07T14:40:59Z",
     "latestReleaseName": "v1.20.30",
-    "pushedAt": "2026-11-07T14:41:07Z",
-    "fetchedAt": "2026-11-09T03:09:59.117Z"
+    "pushedAt": "2026-11-09T21:42:04Z",
+    "fetchedAt": "2026-11-10T04:52:26.586Z"
   }
 ]

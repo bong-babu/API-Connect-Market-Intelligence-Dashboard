@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44382,
-    "forks": 5243,
-    "openIssues": 233,
-    "watchers": 44382,
+    "stars": 44389,
+    "forks": 5241,
+    "openIssues": 235,
+    "watchers": 44389,
     "language": "Lua",
     "topics": [
       "ai",
@@ -36,8 +36,8 @@
     "latestReleaseTag": "3.9.4",
     "latestReleaseDate": "2026-10-12T07:27:48Z",
     "latestReleaseName": "3.9.4",
-    "pushedAt": "2026-10-19T02:45:09Z",
-    "fetchedAt": "2026-11-16T03:21:08.193Z"
+    "pushedAt": "2026-11-17T03:06:22Z",
+    "fetchedAt": "2026-11-17T05:21:01.397Z"
   },
   {
     "competitorId": "apigee",
@@ -45,10 +45,10 @@
     "repo": "google-cloud-node",
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
-    "stars": 3211,
-    "forks": 730,
+    "stars": 3212,
+    "forks": 729,
     "openIssues": 660,
-    "watchers": 3211,
+    "watchers": 3212,
     "language": "TypeScript",
     "topics": [
       "google-cloud",
@@ -58,8 +58,8 @@
     "latestReleaseTag": "storage-control-v0.14.0",
     "latestReleaseDate": "2026-11-12T20:40:09Z",
     "latestReleaseName": "storage-control: v0.14.0",
-    "pushedAt": "2026-11-13T11:33:11Z",
-    "fetchedAt": "2026-11-16T03:21:08.833Z"
+    "pushedAt": "2026-11-16T11:35:38Z",
+    "fetchedAt": "2026-11-17T05:21:01.933Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-11-16T03:21:09.430Z"
+    "fetchedAt": "2026-11-17T05:21:02.473Z"
   },
   {
     "competitorId": "solo",
@@ -98,7 +98,7 @@
     "latestReleaseTag": "v1.22.8",
     "latestReleaseDate": "2026-11-12T23:47:31Z",
     "latestReleaseName": "v1.22.8",
-    "pushedAt": "2026-11-13T19:30:56Z",
-    "fetchedAt": "2026-11-16T03:21:10.044Z"
+    "pushedAt": "2026-11-17T04:19:29Z",
+    "fetchedAt": "2026-11-17T05:21:03.087Z"
   }
 ]

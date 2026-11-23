@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44404,
-    "forks": 5248,
+    "stars": 44401,
+    "forks": 5249,
     "openIssues": 237,
-    "watchers": 44404,
+    "watchers": 44401,
     "language": "Lua",
     "topics": [
       "ai",
@@ -36,8 +36,8 @@
     "latestReleaseTag": "3.9.5",
     "latestReleaseDate": "2026-11-19T10:33:35Z",
     "latestReleaseName": "3.9.5",
-    "pushedAt": "2026-11-20T13:02:22Z",
-    "fetchedAt": "2026-11-22T03:38:54.676Z"
+    "pushedAt": "2026-11-23T03:47:04Z",
+    "fetchedAt": "2026-11-23T04:12:36.560Z"
   },
   {
     "competitorId": "apigee",
@@ -46,8 +46,8 @@
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3213,
-    "forks": 730,
-    "openIssues": 701,
+    "forks": 731,
+    "openIssues": 710,
     "watchers": 3213,
     "language": "TypeScript",
     "topics": [
@@ -58,8 +58,8 @@
     "latestReleaseTag": "storage-control-v0.14.0",
     "latestReleaseDate": "2026-11-12T20:40:09Z",
     "latestReleaseName": "storage-control: v0.14.0",
-    "pushedAt": "2026-11-20T23:59:38Z",
-    "fetchedAt": "2026-11-22T03:38:55.233Z"
+    "pushedAt": "2026-11-23T02:44:27Z",
+    "fetchedAt": "2026-11-23T04:12:37.125Z"
   },
   {
     "competitorId": "mulesoft",
@@ -68,7 +68,7 @@
     "fullName": "mulesoft/mule",
     "description": "Mule Community Edition",
     "stars": 500,
-    "forks": 688,
+    "forks": 687,
     "openIssues": 15,
     "watchers": 500,
     "language": "Java",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-11-22T03:38:55.806Z"
+    "fetchedAt": "2026-11-23T04:12:37.706Z"
   },
   {
     "competitorId": "solo",
@@ -99,6 +99,6 @@
     "latestReleaseDate": "2026-11-12T23:47:31Z",
     "latestReleaseName": "v1.22.8",
     "pushedAt": "2026-11-20T23:16:23Z",
-    "fetchedAt": "2026-11-22T03:38:56.387Z"
+    "fetchedAt": "2026-11-23T04:12:38.397Z"
   }
 ]

@@ -1,6 +1,42 @@
 [
   {
-    "id": "rss-mulesoft-1795585589679-0",
+    "id": "rss-mulesoft-1795671399309-0",
+    "competitorId": "mulesoft",
+    "competitorName": "MuleSoft Anypoint",
+    "source": "rss",
+    "title": "Design by Specs: the step before the contract",
+    "link": "https://medium.com/@kdjaafar/design-by-specs-the-step-before-the-contract-976e732710a1?source=rss------mulesoft-5",
+    "publishedAt": "Wed, 25 Nov 2026 23:13:57 GMT",
+    "summary": "Any project team can write an API contract. The real question is whether it still says what the business asked for — and still meets their… Continue reading on Medium »",
+    "feedTitle": "Mulesoft on Medium",
+    "feedUrl": "https://medium.com/feed/tag/mulesoft"
+  },
+  {
+    "id": "rss-kong-1795671399332-0",
+    "competitorId": "kong",
+    "competitorName": "Kong Inc.",
+    "source": "rss",
+    "title": "İstek Servise Hiç Ulaşmadı: Kong Gateway ile .NET Mikroservislerinde Tek Endpoint’i Dışarıya Açmak",
+    "link": "https://medium.com/@emreozgoz/i%CC%87stek-servise-hi%C3%A7-ula%C5%9Fmad%C4%B1-kong-gateway-ile-net-mikroservislerinde-tek-endpointi-d%C4%B1%C5%9Far%C4%B1ya-a%C3%A7mak-5ac0f27172a0?source=rss------kong-5",
+    "publishedAt": "Wed, 25 Nov 2026 20:09:43 GMT",
+    "summary": "1. Giriş: Neden API Gateway? Continue reading on Medium »",
+    "feedTitle": "Kong on Medium",
+    "feedUrl": "https://medium.com/feed/tag/kong"
+  },
+  {
+    "id": "rss-mulesoft-1795671399309-1",
+    "competitorId": "mulesoft",
+    "competitorName": "MuleSoft Anypoint",
+    "source": "rss",
+    "title": "Understanding API-Led Connectivity in MuleSoft: A Beginner’s Perspective",
+    "link": "https://medium.com/@divyachaurasia0612/understanding-api-led-connectivity-in-mulesoft-a-beginners-perspective-1ac0c8385f0d?source=rss------mulesoft-5",
+    "publishedAt": "Wed, 25 Nov 2026 05:54:00 GMT",
+    "summary": "My understanding of how System, Process, and Experience APIs work together to simplify application integration. Continue reading on Medium »",
+    "feedTitle": "Mulesoft on Medium",
+    "feedUrl": "https://medium.com/feed/tag/mulesoft"
+  },
+  {
+    "id": "rss-mulesoft-1795671399309-2",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -12,7 +48,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-mulesoft-1795585589679-1",
+    "id": "rss-mulesoft-1795671399309-3",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -24,7 +60,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-mulesoft-1795585589679-2",
+    "id": "rss-mulesoft-1795671399309-4",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -36,7 +72,19 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-mulesoft-1795585589679-3",
+    "id": "rss-apigee-1795671399516-0",
+    "competitorId": "apigee",
+    "competitorName": "Google Apigee",
+    "source": "rss",
+    "title": "November 24, 2026",
+    "link": "https://docs.cloud.google.com/apigee/docs/release-notes#November_24_2026",
+    "publishedAt": "2026-11-24T08:00:00.000Z",
+    "summary": "Apigee hybrid v1.15.11 Announcement v1.15.11 On November 24, 2026, we released an updated version of the Apigee hybrid software, v1.15.11. For information about upgrading, see Upgrading Apigee hybrid to v1.15.11. For information about new installations, see The big picture. Note: Before upgrading…",
+    "feedTitle": "Apigee - Release notes",
+    "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
+  },
+  {
+    "id": "rss-mulesoft-1795671399309-5",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -48,7 +96,19 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-mulesoft-1795585589679-4",
+    "id": "rss-apigee-1795671399516-1",
+    "competitorId": "apigee",
+    "competitorName": "Google Apigee",
+    "source": "rss",
+    "title": "November 23, 2026",
+    "link": "https://docs.cloud.google.com/apigee/docs/release-notes#November_23_2026",
+    "publishedAt": "2026-11-23T08:00:00.000Z",
+    "summary": "Apigee Edge for Public Cloud Announcement Released Edge Microgateway 3.3.13. Component Version microgateway 3.3.13 plugins 3.3.9 edgeauth 3.2.2 To upgrade, install edgemicro@3.3.13 from npm or pull gcr.io/apigee-microgateway/edgemicro:3.3.13. For upgrade instructions, see Upgrading Edge…",
+    "feedTitle": "Apigee - Release notes",
+    "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
+  },
+  {
+    "id": "rss-mulesoft-1795671399309-6",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -60,7 +120,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-mulesoft-1795585589679-5",
+    "id": "rss-mulesoft-1795671399309-7",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -72,7 +132,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-mulesoft-1795585589679-6",
+    "id": "rss-mulesoft-1795671399309-8",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -84,7 +144,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-apigee-1795585590068-0",
+    "id": "rss-apigee-1795671399516-2",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -96,7 +156,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-ibm-1795585589948-0",
+    "id": "rss-ibm-1795671399656-0",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -108,7 +168,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-mulesoft-1795585589679-7",
+    "id": "rss-mulesoft-1795671399309-9",
     "competitorId": "mulesoft",
     "competitorName": "MuleSoft Anypoint",
     "source": "rss",
@@ -120,31 +180,7 @@
     "feedUrl": "https://medium.com/feed/tag/mulesoft"
   },
   {
-    "id": "rss-mulesoft-1795585589679-8",
-    "competitorId": "mulesoft",
-    "competitorName": "MuleSoft Anypoint",
-    "source": "rss",
-    "title": "Implementing Exponential Backoff in Mule 4",
-    "link": "https://medium.com/@shreyasmishra1/implementing-exponential-backoff-in-mule-4-870031567a66?source=rss------mulesoft-5",
-    "publishedAt": "Thu, 19 Nov 2026 17:21:54 GMT",
-    "summary": "When a downstream service becomes temporarily unavailable, retrying immediately can make the problem worse. Exponential backoff gives the… Continue reading on Medium »",
-    "feedTitle": "Mulesoft on Medium",
-    "feedUrl": "https://medium.com/feed/tag/mulesoft"
-  },
-  {
-    "id": "rss-mulesoft-1795585589679-9",
-    "competitorId": "mulesoft",
-    "competitorName": "MuleSoft Anypoint",
-    "source": "rss",
-    "title": "MuleSoft CloudHub 2.0 — A Simple Guide to Private Spaces and Networking",
-    "link": "https://medium.com/@sugapriyaa96/mulesoft-cloudhub-2-0-a-simple-guide-to-private-spaces-and-networking-6fe413903f04?source=rss------mulesoft-5",
-    "publishedAt": "Thu, 19 Nov 2026 09:50:42 GMT",
-    "summary": "Understand VPN, AWS Transit Gateway, load balancing, DNS, TLS, and networking with simple explanations and real-world examples. Continue reading on Medium »",
-    "feedTitle": "Mulesoft on Medium",
-    "feedUrl": "https://medium.com/feed/tag/mulesoft"
-  },
-  {
-    "id": "rss-apigee-1795585590068-1",
+    "id": "rss-apigee-1795671399516-3",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -156,7 +192,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1795585590068-2",
+    "id": "rss-apigee-1795671399516-4",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -168,7 +204,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1795585590068-3",
+    "id": "rss-apigee-1795671399516-5",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -180,7 +216,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1795585590068-4",
+    "id": "rss-apigee-1795671399516-6",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -192,7 +228,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1795585590068-5",
+    "id": "rss-apigee-1795671399516-7",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -204,7 +240,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1795585590068-6",
+    "id": "rss-apigee-1795671399516-8",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -216,7 +252,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-boomi-1795585589657-0",
+    "id": "rss-boomi-1795671399317-0",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -228,7 +264,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-apigee-1795585590068-7",
+    "id": "rss-apigee-1795671399516-9",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -240,7 +276,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1795585590068-8",
+    "id": "rss-apigee-1795671399516-10",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -252,7 +288,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1795585590068-9",
+    "id": "rss-apigee-1795671399516-11",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -264,7 +300,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1795585590069-10",
+    "id": "rss-apigee-1795671399516-12",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -276,7 +312,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-kong-1795585589652-0",
+    "id": "rss-kong-1795671399332-1",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -288,7 +324,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-apigee-1795585590069-11",
+    "id": "rss-apigee-1795671399516-13",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -300,7 +336,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1795585590069-12",
+    "id": "rss-apigee-1795671399516-14",
     "competitorId": "apigee",
     "competitorName": "Google Apigee",
     "source": "rss",
@@ -312,31 +348,7 @@
     "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
   },
   {
-    "id": "rss-apigee-1795585590069-13",
-    "competitorId": "apigee",
-    "competitorName": "Google Apigee",
-    "source": "rss",
-    "title": "October 27, 2026",
-    "link": "https://docs.cloud.google.com/apigee/docs/release-notes#October_27_2026",
-    "publishedAt": "2026-10-27T07:00:00.000Z",
-    "summary": "Apigee X Feature The Apigee API Health & Availability dashboard is now generally available in Cloud Monitoring to help you monitor the health, performance, and availability of your Apigee API proxies in real time: Golden signal scorecards: track aggregate Traffic (requests per second), Error Rate…",
-    "feedTitle": "Apigee - Release notes",
-    "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
-  },
-  {
-    "id": "rss-apigee-1795585590069-14",
-    "competitorId": "apigee",
-    "competitorName": "Google Apigee",
-    "source": "rss",
-    "title": "October 26, 2026",
-    "link": "https://docs.cloud.google.com/apigee/docs/release-notes#October_26_2026",
-    "publishedAt": "2026-10-26T07:00:00.000Z",
-    "summary": "Apigee X Feature Model Context Protocol (MCP) tool arguments are sent to the location their OpenAPI parameter declares This change applies to Apigee X in all supported regions. An MCP tool argument whose OpenAPI parameter declares in: header is now sent to your backend as a request header, and one…",
-    "feedTitle": "Apigee - Release notes",
-    "feedUrl": "https://cloud.google.com/feeds/apigee-release-notes.xml"
-  },
-  {
-    "id": "rss-ibm-1795585589949-1",
+    "id": "rss-ibm-1795671399656-1",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -348,7 +360,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-kong-1795585589652-1",
+    "id": "rss-kong-1795671399332-2",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -360,7 +372,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-kong-1795585589652-2",
+    "id": "rss-kong-1795671399332-3",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -372,7 +384,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-kong-1795585589652-3",
+    "id": "rss-kong-1795671399332-4",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -384,7 +396,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-kong-1795585589652-4",
+    "id": "rss-kong-1795671399332-5",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -396,7 +408,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-kong-1795585589652-5",
+    "id": "rss-kong-1795671399332-6",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -408,7 +420,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-kong-1795585589652-6",
+    "id": "rss-kong-1795671399332-7",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -420,7 +432,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-kong-1795585589652-7",
+    "id": "rss-kong-1795671399332-8",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -432,7 +444,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-kong-1795585589652-8",
+    "id": "rss-kong-1795671399332-9",
     "competitorId": "kong",
     "competitorName": "Kong Inc.",
     "source": "rss",
@@ -444,19 +456,7 @@
     "feedUrl": "https://medium.com/feed/tag/kong"
   },
   {
-    "id": "rss-kong-1795585589652-9",
-    "competitorId": "kong",
-    "competitorName": "Kong Inc.",
-    "source": "rss",
-    "title": "The Real IP Isn’t the Real Caller",
-    "link": "https://medium.com/@shubhojit.dasgupta/the-real-ip-isnt-the-real-caller-9fdf898f1e03?source=rss------kong-5",
-    "publishedAt": "Thu, 08 Oct 2026 07:10:28 GMT",
-    "summary": "Closing the identity loop for partner rate limits in Kong behind F5 Continue reading on Medium »",
-    "feedTitle": "Kong on Medium",
-    "feedUrl": "https://medium.com/feed/tag/kong"
-  },
-  {
-    "id": "rss-boomi-1795585589657-1",
+    "id": "rss-boomi-1795671399317-1",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -468,7 +468,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-boomi-1795585589657-2",
+    "id": "rss-boomi-1795671399317-2",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -480,7 +480,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-boomi-1795585589657-3",
+    "id": "rss-boomi-1795671399317-3",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -492,7 +492,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-boomi-1795585589657-4",
+    "id": "rss-boomi-1795671399317-4",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -504,7 +504,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-boomi-1795585589657-5",
+    "id": "rss-boomi-1795671399317-5",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -516,7 +516,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-boomi-1795585589657-6",
+    "id": "rss-boomi-1795671399317-6",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -528,7 +528,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-boomi-1795585589657-7",
+    "id": "rss-boomi-1795671399317-7",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -540,7 +540,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-boomi-1795585589657-8",
+    "id": "rss-boomi-1795671399317-8",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -552,7 +552,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-boomi-1795585589657-9",
+    "id": "rss-boomi-1795671399317-9",
     "competitorId": "boomi",
     "competitorName": "Boomi",
     "source": "rss",
@@ -564,7 +564,7 @@
     "feedUrl": "https://medium.com/feed/tag/boomi"
   },
   {
-    "id": "rss-ibm-1795585589949-2",
+    "id": "rss-ibm-1795671399656-2",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -576,7 +576,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1795585589949-3",
+    "id": "rss-ibm-1795671399656-3",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -588,7 +588,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1795585589949-4",
+    "id": "rss-ibm-1795671399656-4",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -600,7 +600,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1795585589949-5",
+    "id": "rss-ibm-1795671399656-5",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -612,7 +612,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1795585589949-6",
+    "id": "rss-ibm-1795671399656-6",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -624,7 +624,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1795585589949-7",
+    "id": "rss-ibm-1795671399656-7",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -636,7 +636,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1795585589949-8",
+    "id": "rss-ibm-1795671399656-8",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",
@@ -648,7 +648,7 @@
     "feedUrl": "https://medium.com/feed/tag/ibm-api-connect"
   },
   {
-    "id": "rss-ibm-1795585589949-9",
+    "id": "rss-ibm-1795671399656-9",
     "competitorId": "ibm",
     "competitorName": "IBM API Connect",
     "source": "rss",

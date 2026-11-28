@@ -5,10 +5,10 @@
     "repo": "kong",
     "fullName": "Kong/kong",
     "description": "🦍 The API and AI Gateway",
-    "stars": 44421,
-    "forks": 5253,
+    "stars": 44429,
+    "forks": 5254,
     "openIssues": 239,
-    "watchers": 44421,
+    "watchers": 44429,
     "language": "Lua",
     "topics": [
       "ai",
@@ -37,7 +37,7 @@
     "latestReleaseDate": "2026-11-19T10:33:35Z",
     "latestReleaseName": "3.9.5",
     "pushedAt": "2026-11-23T09:13:42Z",
-    "fetchedAt": "2026-11-27T05:30:19.717Z"
+    "fetchedAt": "2026-11-28T05:06:32.539Z"
   },
   {
     "competitorId": "apigee",
@@ -46,8 +46,8 @@
     "fullName": "googleapis/google-cloud-node",
     "description": "Google Cloud Client Library for Node.js",
     "stars": 3215,
-    "forks": 734,
-    "openIssues": 711,
+    "forks": 735,
+    "openIssues": 712,
     "watchers": 3215,
     "language": "TypeScript",
     "topics": [
@@ -58,8 +58,8 @@
     "latestReleaseTag": "spanner-v9.1.1",
     "latestReleaseDate": "2026-11-23T17:55:04Z",
     "latestReleaseName": "spanner: v9.1.1",
-    "pushedAt": "2026-11-26T20:41:07Z",
-    "fetchedAt": "2026-11-27T05:30:20.299Z"
+    "pushedAt": "2026-11-27T18:42:49Z",
+    "fetchedAt": "2026-11-28T05:06:33.102Z"
   },
   {
     "competitorId": "mulesoft",
@@ -78,7 +78,7 @@
     "latestReleaseDate": null,
     "latestReleaseName": null,
     "pushedAt": "2026-06-08T12:57:37Z",
-    "fetchedAt": "2026-11-27T05:30:20.879Z"
+    "fetchedAt": "2026-11-28T05:06:33.651Z"
   },
   {
     "competitorId": "solo",
@@ -99,6 +99,6 @@
     "latestReleaseDate": "2026-11-25T19:35:19Z",
     "latestReleaseName": "v1.22.10",
     "pushedAt": "2026-11-25T19:35:18Z",
-    "fetchedAt": "2026-11-27T05:30:21.484Z"
+    "fetchedAt": "2026-11-28T05:06:34.289Z"
   }
 ]
